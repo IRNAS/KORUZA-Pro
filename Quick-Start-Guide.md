@@ -333,7 +333,7 @@ or
 
 **Step 5:** Tighten until the spring washer is well compressed.
 
-![Step 4 Horizontal Mount](https://github.com/IRNAS/KORUZA-Pro/blob/master/img/horizontal-mount.png?raw=true horizontal-mount.png "Step 2 Horizontal Mount")
+![Step 4 Horizontal Mount](https://github.com/IRNAS/KORUZA-Pro/blob/master/img/horizontal-mount.png?raw=true "Step 2 Horizontal Mount")
 
 or
 
@@ -494,4 +494,4 @@ The unenforceability of any portion of this Waiver shall not render the remainde
 
 ## Acceptance
 
-Purchaser will be deemed to have accepted this Waiver by purchasing the Prototypes designated as “Engineering Prototype” and/or whose description includes a link to this waiver and states that purchase constitutes acceptance. The Seller will in its sole discretion further require Purchaser to sign a copy of this waiver when deemed necessary.
+Purchaser will be deemed to have accepted this Waiver by purchasing the Prototypes designated as “Engineering Prototype” and/or whose description includes a link to this waiver and states that purchase constitutes acceptance. The Seller will in its sole discretion further require Purchaser to sign a copy of this waiver when deemed necessary. 
