@@ -61,49 +61,185 @@ KORUZA Pro is used with advantage for:
 
 ## Specifications
 
-
-| Model | Bridge (1 Gbps / 2.5 Gbps / 10 Gbps)  | Routed (1 Gbps) | (IoT 1 - 10 Mbps) |
-| ------ | ----------- |----------- |
-|**Electrical**|
-|Network port | SFP cage – data, 100 Mbps ethernet – management | 3 × 1 Gbps Ethernet + SFP cage? | 10 Mbps |
-|Power supply requirements  <td colspan="2"> 24 V (12 V-30 V) 0.5 A (PoE 802.3af mode B)</td> | 5 V 1 A |
-|Average power consumption  <td colspan="2"> 6 W</td> | 5 W |
-|**Mechanical**|
-|Outdoor enclosure (material)  <td colspan="3">Anodized aluminium</td> |
-|Mounting  <td colspan="3">Vertical/horizontal pole up to diameter 60 mm</td> |
-|Weight  <td colspan="3">Approximately 2 kg</td> |
-|Dimensions  <td colspan="3">180 mm × 120 mm × 120 mm</td> |
-|Manual beam alignment accuracy  <td colspan="2">1 mrad</td> | 0.1 dag |
-|Motorized beam alignment accuracy  <td colspan="2">0.003 mrad</td> | / |
-|**Optical**|
-|Optical source and detector  <td colspan="2">SC SFP WDM Bi-Di module with DDM</td> | LED |
-|Wavelength | Matched pair at 1270 nm/1310 nm | Matched pair at 1330 nm/1550 nm | 850 mm |
-|Transmitter power | 0.5 dBm | 0 dBm | / |
-|Receiver sensitivity | -15 dBm | -23 dBm | / |
-|Bandwidth | 10 Gbps | 1 Gbps | 1 - 10 Mbps |
-|Laser power  <td colspan="2"> < 1 mW</td> | 100 mW |
-|Beam divergence  <td colspan="2">0.05 mrad</td> | 1 dag |
-|Aperture  <td colspan="2">50 mm NBK7 Plano-convex lens</td> | 20 mm NBK7 Plano-convex lens |
-|Receiver field-of-view  <td colspan="2">10 mrad</td> | 1 dag |
-|Laser class  <td colspan="3">1M (eye safe)</td>
-|**Control and routing**|
-|Routing platform | Not integrated | DualCore@880 MHz, 512 RAM, OpenWrt | None |
-|Management interface  <td colspan="2">http, snmp, custom protocols (built-in Linux Raspberry Pi Compute module system)</td> | 12C/VART |
-|Auto-tracking  <td colspan="2">Yes</td> | No |
-|Data processing | None via SFP port, Layer 1 system | Optional via routing platform |No |
-|Annual optical link availability  <td colspan="3">99%</td> |
-|**Environmental**|
-|Operating temperature  <td colspan="3">-40 °C to 60 °C</td> |
-|Humidity  <td colspan="3">Undetermined</td> |
-|Outdoor rating  <td colspan="3">IP65</td> |
-|Distance  <td colspan="2">< 150 m, or greater with limited reliability</td> | 1 km |
-|**Attenuation @ 100 m**|
-|Clear day (10 km+ visibility)  <td colspan="3">0 dB</td> |
-|Moderate fog (500 m visibility)  <td colspan="3">1 dB</td> |
-|Dense fog (100 m visibility)  <td colspan="3">4 dB</td> |
-|**Price**|
-|Approx per link (two transceivers) | 1 Gbps - €1.450 excl. VAT; 2.5 Gbps - TBD; 10 Gbps - €1.950 excl. VAT  | TBD | TBD (Under development) |
-
+ <table style="width:100%">
+  <tr>
+    <th>MODEL</th>
+    <th>Bridge (1 Gbps / 2.5 Gbps / 10 Gbps)</th>
+    <th>Routed (1 Gbps)</th>
+    <th>IoT 1 - 10 Mbps</th>
+  </tr>
+  <tr>
+  <td colspan="4"><strong>ELECTRICAL</strong></td>
+  </tr>
+  <tr>
+  <td><strong>Network port</strong></td>
+    <td>SFP cage – data, 100 Mbps ethernet – management</td>
+    <td>3 × 1 Gbps Ethernet + SFP cage</td>
+    <td>10 Mbps</td>
+  </tr>
+    <tr>
+    <td><strong>Power supply requirements</strong></td>
+    <td colspan="2">24 V (12 V-30 V) 0.5 A (PoE 802.3af mode B)</td>
+    <td>5 V 1 A</td>
+  </tr>
+    <tr>
+    <td><strong>Average power consumption</strong></td>
+    <td colspan="2">6 W</td>
+    <td>5 W</td>
+  </tr>
+  <td colspan="4"><strong>MECHANICAL</strong></td>
+  </tr>
+  <tr>
+  <td><strong>Outdoor enclosure (material)</strong></td>
+    <td colspan="3">Anodized aluminium</td>
+  </tr>
+    <tr>
+    <td><strong>Mounting</strong></td>
+    <td colspan="3">Vertical/horizontal pole up to diameter 60 mm</td>
+  </tr>
+   <tr>
+    <td><strong>Weight</strong></td>
+    <td colspan="3">Approximately 2 kg </td>
+   </tr>
+   <tr>
+    <td><strong>Dimensions</strong></td>
+    <td colspan="3">180 mm × 120 mm × 120 mm</td>
+   </tr>
+   <tr>
+    <td><strong>Manual beam alignment accuracy</strong></td>
+    <td colspan="2">1 mrad</td>
+    <td>0.1 dag</td>
+   </tr>
+   <tr>
+    <td><strong>Motorized beam alignment accuracy</strong></td>
+    <td colspan="2">0.003 mrad</td>
+    <td>/</td>
+   </tr>   
+<td colspan="4"><strong>OPTICAL</strong></td>
+  </tr>
+  <tr>
+  <td><strong>Optical source and detector</strong></td>
+  <td colspan="2">SC SFP WDM Bi-Di module with DDM</td>
+  <td>LED</td>
+  </tr>
+  <tr>
+  <td><strong>Wavelength</strong></td>
+  <td>Matched pair at 1270 nm/1310 nm</td>
+  <td>Matched pair at 1330 nm/1550 nm</td>
+  <td>Matched pair at 850 mm</td>
+  </tr>
+  <tr>
+  <td><strong>Transmitter power</strong></td>
+  <td>0.5 dBm</td>
+  <td>0 dBm</td>
+  <td>/</td>
+  </tr>
+  <tr>
+  <td><strong>Receiver sensitivity</strong></td>
+  <td>-15 dBm</td>
+  <td>-23 dBm</td>
+  <td>/</td>
+  </tr>
+  <tr>
+  <td><strong>Bandwidth</strong></td>
+  <td>10 Gbps</td>
+  <td>1 Gbps</td>
+  <td>1 - 10 Mbps</td>
+  </tr>
+  <tr>
+  <td><strong>Laser power</strong></td>
+  <td colspan="2">< 1 mW</td>
+  <td>100 mW</td>
+  </tr>
+  <tr>
+  <td><strong>Beam divergence</strong></td>
+  <td colspan="2">0.05 mrad</td>
+  <td>1 dag</td>
+  </tr>
+  <tr>
+  <td><strong>Aperture</strong></td>
+  <td colspan="2">50 mm NBK7 Plano-convex lens</td>
+  <td>20 mm NBK7 Plano-convex lens</td>
+  </tr>
+  <tr>
+  <td><strong>Receiver field-of-view</strong></td>
+  <td colspan="2">10 mrad</td>
+  <td>1 dag</td>
+  </tr>
+  <tr>
+  <td><strong>Laser class</strong></td>
+  <td colspan="3">1M (eye safe)</td>
+  </tr>
+<td colspan="4"><strong>CONTROL AND ROUTING</strong></td>
+  </tr>
+  <tr>
+  <td><strong>Routing platform</strong></td>
+  <td>Not integrated</td>
+  <td>DualCore@880 MHz, 512 RAM, OpenWrt</td>
+  <td>None</td>
+  </tr>
+  <tr>
+  <td><strong>Management interface</strong></td>
+  <td colspan="2">http, snmp, custom protocols (built-in Linux Raspberry Pi Compute module system)</td>
+  <td>12C/VART</td>
+  </tr>
+  <tr>
+  <td><strong>Auto-tracking</strong></td>
+  <td colspan="2">Yes</td>
+  <td>No</td>
+  </tr>
+  <tr>
+  <td><strong>Data processing</strong></td>
+  <td>None via SFP port, Layer 1 system</td>
+  <td>Optional via routing platform</td>
+  <td>No</td>
+  </tr>
+  <tr>
+  <td><strong>Annual optical link availability</strong></td>
+  <td colspan="3">99%</td>
+  </tr>
+<td colspan="4"><strong>ENVIRONMENTAL</strong></td>
+  </tr>
+  <tr>
+  <td><strong>Operating temperature</strong></td>
+  <td colspan="3">-40 °C to 60 °C</td>
+  </tr>
+  <tr>
+  <td><strong>Humidity</strong></td>
+  <td colspan="3">Undetermined</td>
+  </tr>
+  <tr>
+  <td><strong>Outdoor rating</strong></td>
+  <td colspan="3">IP65</td>
+  </tr>
+  <tr>
+  <td><strong>Distance</strong></td>
+  <td colspan="2">< 150 m, or greater with limited reliability</td>
+  <td>1 km</td>
+  </tr>
+<td colspan="4"><strong>ATTENUATION @ 100 m</strong></td>
+  </tr>
+  <tr>
+  <td><strong>Clear day (10 km+ visibility)</strong></td>
+  <td colspan="3">0 dB</td>
+  </tr>
+  <tr>
+  <td><strong>Moderate fog (500 m visibility)</strong></td>
+  <td colspan="3">1 dB</td>
+  </tr>
+  <tr>
+  <td><strong>Dense fog (100 m visibility)</strong></td>
+  <td colspan="3">4 dB</td>
+  </tr>
+<td colspan="4"><strong>PRICE</strong></td>
+  </tr>
+  <tr>
+  <td><strong>Approx per link (two transceivers)</strong></td>
+  <td>1 Gbps - €1.450 excl. VAT; 2.5 Gbps - TBD; 10 Gbps - €1.950 excl. VAT</td>
+  <td>TBD</td>
+  <td>TBD (Under development)</td>
+  </tr>
+</table> 
 
 ## Installation Guide
 
@@ -156,7 +292,7 @@ For the installation of KORUZA Pro units the following tools are required:
 
 ### Pre-prepare the units for installation
 
-![Cable opening](https://github.com/IRNAS/KORUZA-Pro/blob/master/img/cable-opening.png?raw=true"Cable opening")
+![Cable opening](https://github.com/IRNAS/KORUZA-Pro/blob/master/img/cable-opening.png?raw=true "Cable opening")
 
 **Step 1:** Connect the WiFi USB to KORUZA Pro unit - to USB port (1).
 
