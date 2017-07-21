@@ -1,7 +1,7 @@
 
 # KORUZA Pro
 Wireless Optical Communication System
-Model: 1 Gbps | 10 Gbps
+Models: 1 Gbps | 10 Gbps | 2.5 Gbps (upcoming) | IoT (upcoming)
 
 ![KORUZA Pro Right Side](https://raw.githubusercontent.com/IRNAS/KORUZA-Pro/master/img/koruza-side-right.jpg "KORUZA Pro Front")
 
@@ -21,7 +21,9 @@ In case you need additional support or assistance you can get in contact via ema
 
 KORUZA Pro is a wireless optical internet access system, empowering an instant optical network roll-out in high-density urban networks with minimal infrastructure investment and versatile installation options. It is low-maintenance and it operates an active link protection, ensuring long-term interference-free operation.
 
-Data is securely transmitted point-to-point over a collimated beam of light at 1 Gbps, 2.5 Gbps or 10 Gbps throughput at distances up to 150 m using eye-safe and to human eye invisible infrared light beam.
+Data is securely transmitted point-to-point over a collimated beam of light at 1 Gbps, 2.5 Gbps (upcoming) or 10 Gbps throughput at distances up to 150 m using eye-safe and to human eye invisible infrared light beam.
+
+KORUZA Pro IoT provides a robust solution for wireless optical connectivity for sensors and device to device communication for industrial applications. Low-speed 1-10 MBps design enables transport of the majority of sensor measurements in real-time in applications ranging from KORUZA Pro to KORUZA Pro units for management purposes, stand-alone as a sensor networking unit between a stationary base station and a system moving at speed along a straight linear rail, for example on a crane or roller coaster. The multi-protocol interface allows one to extend standard I2C, SPI or UART communication protocols as well as use an ethernet interface in a standard communication setup.
 
 ## Use/Application Examples
 
