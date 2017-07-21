@@ -64,12 +64,15 @@ KORUZA Pro is used with advantage for:
 ## Specifications
 
  <table style="width:100%">
+ <thead>
   <tr>
     <th>MODEL</th>
     <th>Bridge (1 Gbps / 2.5 Gbps / 10 Gbps)</th>
     <th>Routed (1 Gbps)</th>
     <th>IoT 1 - 10 Mbps</th>
   </tr>
+ </thead>
+ <tbody>
   <tr>
   <td colspan="4"><strong>ELECTRICAL</strong></td>
   </tr>
@@ -241,6 +244,7 @@ KORUZA Pro is used with advantage for:
   <td>TBD</td>
   <td>TBD (Under development)</td>
   </tr>
+  </tbody>
 </table> 
 
 ## Installation Guide
