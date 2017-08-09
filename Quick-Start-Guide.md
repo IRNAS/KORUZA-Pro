@@ -395,6 +395,8 @@ or
 
 **Step 11:** Visit 172.22.0.1. Login information – username: root, password: raspberry.
 
+![Step 11](https://github.com/IRNAS/KORUZA-Pro/blob/master/img/1_logIn.png?raw=true "Step 11")
+
 **Step 12:** Watch the webcam image and point Koruza towards the other unit so you are within cca 1 m. You need to see KORUZA on the screen.
 
 ![Step 12](https://raw.githubusercontent.com/IRNAS/KORUZA-Pro/master/img/mgmt-interface.png "Step 12")
@@ -415,7 +417,11 @@ Repeat the same process on the other unit.
 
 **Note:** It may be beneficial to have both interfaces located one next to the other for the ease of calibration process.
 
+![Interface-two-windows](https://github.com/IRNAS/KORUZA-Pro/blob/master/img/2_Interface.jpg?raw=true "Interface-two-windows")
+
 Once  you access the interface you should see the camera view and additional data about each unit. The RX Power field indicates received power on the unit and should be used as a main guide during alignment procedure. Keep in mind that that movement of the unit has greater impact on the received power of the opposite unit than on the received power of unit being moved.
+
+![Interface-info](https://github.com/IRNAS/KORUZA-Pro/blob/master/img/Interface-info.png?raw=true "Interface-info")
 
 If performing alignment in low visibility, LED lights can be turned on and off with LEDs button. Lights are turned ON by default.
 
@@ -436,8 +442,11 @@ You can see colour trace on appearing on the screen when unit is moved, indicati
 **Note:** Keep in mind that optimal position might not be when red square and the unit overlap.
 
 A viable approach to finding optimal position:
+
 (a) Try moving one of the units, say UNIT 1, left and right and stop at the position where most signal is received on the opposite unit, say UNIT 2. Try with Steps: 100.
+
 (b) Once optimal position is located, move the same unit up and down and again stop at the position where most signal is received on the opposite unit.
+
 (c) Repeat steps a and b on the opposite UNIT 2, now monitoring relieved signal on the UNIT 1.
 
 Repeat steps a, b and c until optimal signal is received on both units, reducing the steps magnitude in the process. Usually Steps 100 can be used on links up to 50 m and Steps 10 should provide sufficient accuracy for longer links.
