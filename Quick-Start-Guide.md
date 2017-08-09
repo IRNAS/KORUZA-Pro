@@ -67,185 +67,200 @@ KORUZA Pro is used with advantage for:
  <thead>
   <tr>
     <th>MODEL</th>
-    <th>Bridge (1 Gbps / 2.5 Gbps / 10 Gbps)</th>
-    <th>Routed (1 Gbps)</th>
+    <th>Bridge 1 Gbps |  2.5 Gbps</th>
+    <th>Routed 1 Gbps</th>
+    <th>Bridge 10 Gbps</th>
     <th>IoT 1 - 10 Mbps</th>
   </tr>
  </thead>
  <tbody>
   <tr>
-  <td colspan="4"><strong>ELECTRICAL</strong></td>
+  <td colspan="5"><strong>ELECTRICAL</strong></td>
   </tr>
   <tr>
   <td><strong>Network port</strong></td>
     <td>SFP cage – data, 100 Mbps ethernet – management</td>
     <td>3 × 1 Gbps Ethernet + SFP cage</td>
+    <td>SFP cage – data, 100 Mbps ethernet – management</td>
     <td>10 Mbps</td>
   </tr>
     <tr>
     <td><strong>Power supply requirements</strong></td>
-    <td colspan="2">24 V (12 V-30 V) 0.5 A (PoE 802.3af mode B)</td>
+    <td colspan="3">24 V (12 V-30 V) 0.5 A (PoE 802.3af mode B)</td>
     <td>5 V 1 A</td>
   </tr>
     <tr>
     <td><strong>Average power consumption</strong></td>
-    <td colspan="2">6 W</td>
+    <td colspan="3">6 W</td>
     <td>5 W</td>
   </tr>
-  <td colspan="4"><strong>MECHANICAL</strong></td>
-  </tr>
+  <td colspan="5"><strong>MECHANICAL</strong></td>
+
   <tr>
   <td><strong>Outdoor enclosure (material)</strong></td>
-    <td colspan="3">Anodized aluminium</td>
+    <td colspan="4">Anodized aluminium</td>
   </tr>
     <tr>
     <td><strong>Mounting</strong></td>
-    <td colspan="3">Vertical/horizontal pole up to diameter 60 mm</td>
+    <td colspan="4">Vertical/horizontal pole up to diameter 60 mm</td>
   </tr>
    <tr>
     <td><strong>Weight</strong></td>
-    <td colspan="3">Approximately 2 kg </td>
+    <td colspan="4">Approximately 2 kg </td>
    </tr>
    <tr>
     <td><strong>Dimensions</strong></td>
-    <td colspan="3">180 mm × 120 mm × 120 mm</td>
+    <td colspan="4">180 mm × 120 mm × 120 mm</td>
    </tr>
    <tr>
     <td><strong>Manual beam alignment accuracy</strong></td>
-    <td colspan="2">1 mrad</td>
+    <td colspan="3">1 mrad</td>
     <td>0.1 dag</td>
    </tr>
    <tr>
     <td><strong>Motorized beam alignment accuracy</strong></td>
-    <td colspan="2">0.003 mrad</td>
+    <td colspan="3">0.003 mrad</td>
     <td>/</td>
    </tr>   
-<td colspan="4"><strong>OPTICAL</strong></td>
-  </tr>
+<td colspan="5"><strong>OPTICAL</strong></td>
+
   <tr>
   <td><strong>Optical source and detector</strong></td>
-  <td colspan="2">SC SFP WDM Bi-Di module with DDM</td>
+  <td colspan="3">SC SFP WDM Bi-Di module with DDM</td>
   <td>LED</td>
   </tr>
   <tr>
   <td><strong>Wavelength</strong></td>
-  <td>Matched pair at 1270 nm/1310 nm</td>
-  <td>Matched pair at 1330 nm/1550 nm</td>
+  <td colspan="2">Matched pair at 1330 nm/1550 nm</td>
+  <td>Matched pair at 1270 nm/1310 nm</td>  
   <td>Matched pair at 850 mm</td>
   </tr>
   <tr>
   <td><strong>Transmitter power</strong></td>
+  <td colspan="2">0 dBm</td>
   <td>0.5 dBm</td>
-  <td>0 dBm</td>
   <td>/</td>
   </tr>
   <tr>
   <td><strong>Receiver sensitivity</strong></td>
+  <td colspan="2">-23 dBm</td>
   <td>-15 dBm</td>
-  <td>-23 dBm</td>
   <td>/</td>
   </tr>
   <tr>
   <td><strong>Bandwidth</strong></td>
-  <td>10 Gbps</td>
+  <td>1 Gbps | 2.5 Gbps</td>
   <td>1 Gbps</td>
+  <td>10 Gbps</td>
   <td>1 - 10 Mbps</td>
   </tr>
   <tr>
   <td><strong>Laser power</strong></td>
-  <td colspan="2">< 1 mW</td>
+  <td colspan="3">< 1 mW</td>
   <td>100 mW</td>
   </tr>
   <tr>
   <td><strong>Beam divergence</strong></td>
-  <td colspan="2">0.05 mrad</td>
+  <td colspan="3">0.05 mrad</td>
   <td>1 dag</td>
   </tr>
   <tr>
   <td><strong>Aperture</strong></td>
-  <td colspan="2">50 mm NBK7 Plano-convex lens</td>
+  <td colspan="3">50 mm NBK7 Plano-convex lens</td>
   <td>20 mm NBK7 Plano-convex lens</td>
   </tr>
   <tr>
   <td><strong>Receiver field-of-view</strong></td>
-  <td colspan="2">10 mrad</td>
+  <td colspan="3">10 mrad</td>
   <td>1 dag</td>
   </tr>
   <tr>
   <td><strong>Laser class</strong></td>
-  <td colspan="3">1M (eye safe)</td>
+  <td colspan="4">1M (eye safe)</td>
   </tr>
-<td colspan="4"><strong>CONTROL AND ROUTING</strong></td>
-  </tr>
+<td colspan="5"><strong>CONTROL AND ROUTING</strong></td>
+
   <tr>
   <td><strong>Routing platform</strong></td>
   <td>Not integrated</td>
   <td>DualCore@880 MHz, 512 RAM, OpenWrt</td>
-  <td>None</td>
+  <td>Not integrated</td>
+  <td>Not integrated</td>
   </tr>
   <tr>
   <td><strong>Management interface</strong></td>
-  <td colspan="2">http, snmp, custom protocols (built-in Linux Raspberry Pi Compute module system)</td>
-  <td>12C/VART</td>
+  <td colspan="3">http, snmp, custom protocols (built-in Linux Raspberry Pi Compute module system)</td>
+  <td>I2C/UART</td>
   </tr>
   <tr>
   <td><strong>Auto-tracking</strong></td>
-  <td colspan="2">Yes</td>
+  <td colspan="3">Yes</td>
   <td>No</td>
+  </tr>
+  <tr>
+  <td><strong>Management IR link</strong></td>
+  <td colspan="3">Under development</td>
+  <td>/</td>
   </tr>
   <tr>
   <td><strong>Data processing</strong></td>
   <td>None via SFP port, Layer 1 system</td>
   <td>Optional via routing platform</td>
-  <td>No</td>
+  <td>None via SFP port, Layer 1 system</td>
+  <td>None</td>
   </tr>
   <tr>
   <td><strong>Annual optical link availability</strong></td>
-  <td colspan="3">99%</td>
+  <td colspan="4">99%</td>
   </tr>
-<td colspan="4"><strong>ENVIRONMENTAL</strong></td>
-  </tr>
+<td colspan="5"><strong>ENVIRONMENTAL</strong></td>
+
   <tr>
   <td><strong>Operating temperature</strong></td>
-  <td colspan="3">-40 °C to 60 °C</td>
+  <td colspan="4">-40 °C to 60 °C</td>
   </tr>
   <tr>
   <td><strong>Humidity</strong></td>
-  <td colspan="3">Undetermined</td>
+  <td colspan="4">Undetermined</td>
   </tr>
   <tr>
   <td><strong>Outdoor rating</strong></td>
-  <td colspan="3">IP65</td>
+  <td colspan="4">IP65</td>
   </tr>
   <tr>
   <td><strong>Distance</strong></td>
-  <td colspan="2">< 150 m, or greater with limited reliability</td>
+  <td colspan="3">< 150 m, or greater with limited reliability</td>
   <td>1 km</td>
   </tr>
-<td colspan="4"><strong>ATTENUATION @ 100 m</strong></td>
-  </tr>
+<td colspan="5"><strong>ATTENUATION @ 100 m</strong></td>
+
   <tr>
   <td><strong>Clear day (10 km+ visibility)</strong></td>
-  <td colspan="3">0 dB</td>
+  <td colspan="4">0 dB</td>
   </tr>
   <tr>
   <td><strong>Moderate fog (500 m visibility)</strong></td>
-  <td colspan="3">1 dB</td>
+  <td colspan="4">1 dB</td>
   </tr>
   <tr>
   <td><strong>Dense fog (100 m visibility)</strong></td>
-  <td colspan="3">4 dB</td>
-  </tr>
-<td colspan="4"><strong>PRICE</strong></td>
+  <td colspan="4">4 dB</td>
   </tr>
   <tr>
+  <td><strong>Very dense fog (50 m visibility)</strong></td>
+  <td colspan="4">10 dB</td>
+  </tr>
+<td colspan="5"><strong>PRICE</strong></td>
+
+  <tr>
   <td><strong>Approx per link (two transceivers)</strong></td>
-  <td>1 Gbps - €1.450 excl. VAT; 2.5 Gbps - TBD; 10 Gbps - €1.950 excl. VAT</td>
+  <td>1 Gbps - €1.450 excl. VAT; 2.5 Gbps - TBD (Under development)</td>
   <td>TBD</td>
+  <td>10 Gbps - €1.950 excl. VAT</td>
   <td>TBD (Under development)</td>
   </tr>
   </tbody>
-</table> 
+</table>
 
 ## Installation Guide
 
@@ -500,4 +515,4 @@ The unenforceability of any portion of this Waiver shall not render the remainde
 
 ## Acceptance
 
-Purchaser will be deemed to have accepted this Waiver by purchasing the Prototypes designated as “Engineering Prototype” and/or whose description includes a link to this waiver and states that purchase constitutes acceptance. The Seller will in its sole discretion further require Purchaser to sign a copy of this waiver when deemed necessary. 
+Purchaser will be deemed to have accepted this Waiver by purchasing the Prototypes designated as “Engineering Prototype” and/or whose description includes a link to this waiver and states that purchase constitutes acceptance. The Seller will in its sole discretion further require Purchaser to sign a copy of this waiver when deemed necessary.
