@@ -105,19 +105,23 @@ KORUZA Pro is used with advantage for:
 
   <tr>
   <td><strong>Outdoor enclosure (material)</strong></td>
-    <td colspan="4">Anodized aluminium</td>
+    <td colspan="3">Anodized aluminium</td>
+    <td>TBD</td>    
   </tr>
     <tr>
     <td><strong>Mounting</strong></td>
-    <td colspan="4">Vertical/horizontal pole up to diameter 60 mm</td>
+    <td colspan="3">Vertical/horizontal pole up to diameter 60 mm</td>
+    <td>TBD</td>  
   </tr>
    <tr>
     <td><strong>Weight</strong></td>
-    <td colspan="4">Approximately 2 kg </td>
+    <td colspan="3">Approximately 2 kg </td>
+    <td>TBD</td>    
    </tr>
    <tr>
     <td><strong>Dimensions</strong></td>
-    <td colspan="4">180 mm × 120 mm × 120 mm</td>
+    <td colspan="3">180 mm × 120 mm × 120 mm</td>
+    <td>TBD</td>    
    </tr>
    <tr>
     <td><strong>Manual beam alignment accuracy</strong></td>
@@ -452,9 +456,6 @@ A viable approach to finding optimal position:
 Repeat steps a, b and c until optimal signal is received on both units, reducing the steps magnitude in the process. Usually Steps 100 can be used on links up to 50 m and Steps 10 should provide sufficient accuracy for longer links.
 
 (**Note:** This step will be replaced by auto alignment functionality - a feature available soon.)
-
-![Link](https://raw.githubusercontent.com/IRNAS/KORUZA-Pro/master/img/mgmt-interface.png "Link")
-
 
 ### After installation check list
 
