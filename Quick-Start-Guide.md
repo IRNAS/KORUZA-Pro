@@ -413,12 +413,34 @@ Repeat the same process on the other unit.
 
 **Step 1:** Connect to your management interface so you can access both units. You need to know the IP of your both units. (You made a note of it in the Step 13 of the previous section of the installation process.)
 
-**Step 2:** Use the arrow keys to align the KORUZA units. Aim the center of the red square to the center of the unit to establish the link.
+**Note:** It may be beneficial to have both interfaces located one next to the other for the ease of calibration process.
 
-**Step 3:** Link is established when the RX Power is greater than – 25 dBm.
+Once  you access the interface you should see the camera view and additional data about each unit. The RX Power field indicates received power on the unit and should be used as a main guide during alignment procedure. Keep in mind that that movement of the unit has greater impact on the received power of the opposite unit than on the received power of unit being moved.
 
+If performing alignment in low visibility, LED lights can be turned on and off with LEDs button. Lights are turned ON by default.
 
-**Step 4:** Now, use the arrow keys to achieve the maximum receive power on the units. For 50 m link distance this is approximately - 3 dBm, for 100 m approximately - 6 dBm and for 150 m approximately -8 dBm.
+Above camera view you can choose between different movement modes. During alignment, mode None should be selected.  
+
+**Step 2:** Use the arrow keys, located near the edges of camera view, to align the KORUZA units. First, aim the center of the red square to the center of the unit to establish the link.
+
+**Note:** You can choose magnitude of single movement, by selecting Steps option above the camera view. During the coarse alignment Steps 1000 is usually the optimal option.
+
+You can see colour trace on appearing on the screen when unit is moved, indicating signal strength (red - optimal, yelow - weak). You can turn trace on and off under Survey options Toggle visibility. You can reset it by selecting Reset.
+
+**Note:** You can monitor steps under MotorX and MotorY fields. If at any stage you cannot move in a certain direction, first refresh your interface. If the problem persist Click Homing button, and wait for motors to move to the neutral position.
+
+**Step 3:** Link is established when the RX Power is greater than – 25 dBm on both units.
+
+**Step 4:** Now, use the arrow keys to achieve the maximum receive power on the units. For 50 m link distance this is approximately 3 - 6 dBm, for 100 m approximately 6 - 8 dBm and for 150 m approximately 8 - 10 dBm.
+
+**Note:** Keep in mind that optimal position might not be when red square and the unit overlap.
+
+A viable approach to finding optimal position:
+(a) Try moving one of the units, say UNIT 1, left and right and stop at the position where most signal is received on the opposite unit, say UNIT 2. Try with Steps: 100.
+(b) Once optimal position is located, move the same unit up and down and again stop at the position where most signal is received on the opposite unit.
+(c) Repeat steps a and b on the opposite UNIT 2, now monitoring relieved signal on the UNIT 1.
+
+Repeat steps a, b and c until optimal signal is received on both units, reducing the steps magnitude in the process. Usually Steps 100 can be used on links up to 50 m and Steps 10 should provide sufficient accuracy for longer links.
 
 (**Note:** This step will be replaced by auto alignment functionality - a feature available soon.)
 
