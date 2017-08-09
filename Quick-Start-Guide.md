@@ -67,10 +67,17 @@ KORUZA Pro is used with advantage for:
  <thead>
   <tr>
     <th>MODEL</th>
-    <th>Bridge 1 Gbps |  2.5 Gbps</th>
+    <th>Bridge 1 Gbps </th>
     <th>Routed 1 Gbps</th>
-    <th>Bridge 10 Gbps</th>
+    <th>Bridge 10 Gbps | 2.5 Gbps</th>
     <th>IoT 1 - 10 Mbps</th>
+  </tr>
+  <tr>
+  <td><strong>Status</strong></td>
+    <td>Available, Order</td>
+    <td>Under development</td>
+    <td>Under testing, Pre-order</td>
+    <td>Under development</td>
   </tr>
  </thead>
  <tbody>
@@ -149,9 +156,9 @@ KORUZA Pro is used with advantage for:
   </tr>
   <tr>
   <td><strong>Bandwidth</strong></td>
-  <td>1 Gbps | 2.5 Gbps</td>
+  <td>1 Gbps </td>
   <td>1 Gbps</td>
-  <td>10 Gbps</td>
+  <td>10 Gbps | 2.5 Gbps</td>
   <td>1 - 10 Mbps</td>
   </tr>
   <tr>
@@ -194,7 +201,7 @@ KORUZA Pro is used with advantage for:
   </tr>
   <tr>
   <td><strong>Auto-tracking</strong></td>
-  <td colspan="3">Yes</td>
+  <td colspan="3">Yes, requiring management link</td>
   <td>No</td>
   </tr>
   <tr>
@@ -254,10 +261,10 @@ KORUZA Pro is used with advantage for:
 
   <tr>
   <td><strong>Approx per link (two transceivers)</strong></td>
-  <td>1 Gbps - €1.450 excl. VAT; 2.5 Gbps - TBD (Under development)</td>
+  <td>€1.450 excl. VAT</td>
   <td>TBD</td>
-  <td>10 Gbps - €1.950 excl. VAT</td>
-  <td>TBD (Under development)</td>
+  <td>10 Gbps - €1.950 excl. VAT | 2.5 Gbps - TBD</td>
+  <td>TBD</td>
   </tr>
   </tbody>
 </table>
