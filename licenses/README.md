@@ -4,3 +4,5 @@ This is a review of all source files and associated licenses used. Information a
 Please note that this is work in progress and may not be complete nor correct. Prior to usign the KORUZA Pro source yous hould check the licensing yourself.
 
 ## Files:
+ * koruza-license-review.ods Table of repositories and licenses
+ * dpkg-licenses.txt collection of licensing information from the main Raspberry Pi system
