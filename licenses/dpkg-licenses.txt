@@ -104,7 +104,7 @@ ii  kbd                            1.15.5-2                       armhf  Linux c
 ii  keyboard-configuration         1.123                          all    system-wide keyboard preferences                             GPL-2
 ii  klibc-utils                    2.0.4-2+rpi1                   armhf  small utilities built with klibc for early boot              GPL-2
 ii  kmod                           18-3                           armhf  tools for managing Linux kernel modules                      GPL-2 LGPL-2.1
-ii  koruza                         1.0-20170913-1                 armhf  KORUZA                                                       unknown
+ii  koruza                         1.0-20170913-1                 armhf  KORUZA                                                       GPL-3
 ii  less                           458-3                          armhf  pager program similar to more                                GPL-3
 ii  libacl1:armhf                  2.2.52-2                       armhf  Access control list shared library                           GPL LGPL-2.1
 ii  libalgorithm-c3-perl           0.09-1                         all    Perl module for merging hierarchies using the C3 algorithm   Artistic Artistic or GPL-1+ GPL-1+
