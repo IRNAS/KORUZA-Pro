@@ -1,0 +1,468 @@
+St  Name                           Version                        Arch   Description                                                  Licenses
+--  ----                           -------                        ----   -----------                                                  --------
+ii  acl                            2.2.52-2                       armhf  Access control list utilities                                GPL LGPL-2.1
+ii  adduser                        3.113+nmu3                     all    add and remove users and groups                              GPL-2
+ii  alsa-utils                     1.0.28-1                       armhf  Utilities for configuring and using ALSA                     GPL-2
+ii  apt                            1.0.9.8.3                      armhf  commandline package manager                                  GPL-2
+ii  apt-listchanges                2.85.13+nmu1                   all    package change history notification tool                     GPL-2
+ii  apt-utils                      1.0.9.8.3                      armhf  package management related utility programs                  GPL-2
+ii  aptitude                       0.6.11-1                       armhf  terminal-based package manager                               GPL
+ii  aptitude-common                0.6.11-1                       all    architecture independent files for the aptitude package mana GPL
+ii  avahi-daemon                   0.6.31-5                       armhf  Avahi mDNS/DNS-SD daemon                                     GPL GPL-2 LGPL-2.1
+ii  avrdude                        6.1-2+rpi1                     armhf  software for programming Atmel AVR microcontrollers          GPL-2
+ii  base-files                     8+rpi1                         armhf  Debian base system miscellaneous files                       GPL
+ii  base-passwd                    3.5.37                         armhf  Debian base system master password and group files           GPL-2
+ii  bash                           4.3-11                         armhf  GNU Bourne Again SHell                                       GPL-3
+ii  bash-completion                1:2.1-4                        all    programmable completion for the bash shell                   GPL-2+
+ii  bind9-host                     1:9.9.5.dfsg-9+deb8u6          armhf  Version of 'host' bundled with BIND 9.X                      unknown
+ii  binutils                       2.25-5                         armhf  GNU assembler, linker and binary utilities                   GFDL GPL LGPL
+ii  bluez                          5.23-2+rpi2                    armhf  Bluetooth tools and daemons                                  GFDL GPL-2 LGPL-2.1
+ii  bluez-firmware                 1.2-3+rpi1                     all    Firmware for Bluetooth devices                               unknown
+ii  bsdmainutils                   9.0.6                          armhf  collection of more utilities from FreeBSD                    unknown
+ii  bsdutils                       1:2.25.2-6                     armhf  basic utilities from 4.4BSD-Lite                             BSD-2-clause BSD-3-clause BSD-4-clause GPL-2 GPL-2+ GPL-3+ LGPL LGPL-2+ LGPL-2.1+ LGPL-3+ MIT public-domain
+ii  build-essential                11.7                           armhf  Informational list of build-essential packages               GPL
+ii  busybox                        1:1.22.0-9+deb8u1              armhf  Tiny utilities for small and embedded systems                GPL-2
+ii  bzip2                          1.0.6-7                        armhf  high-quality block-sorting file compressor - utilities       GPL-2
+ii  ca-certificates                20141019+deb8u1                all    Common CA certificates                                       GPL-2+ MPL-2.0
+ii  cifs-utils                     2:6.4-1                        armhf  Common Internet File System utilities                        GPL-3 LGPL-3
+ii  console-setup                  1.123                          all    console font and keymap setup program                        GPL-2
+ii  console-setup-linux            1.123                          all    Linux specific part of console-setup                         GPL-2
+ii  coreutils                      8.23-4                         armhf  GNU core utilities                                           GPL-3
+ii  cpio                           2.11+dfsg-4.1+deb8u1           armhf  GNU cpio -- a program to manage archives of files            GPL-3
+ii  cpp                            4:4.9.2-2                      armhf  GNU C preprocessor (cpp)                                     GPL
+ii  cpp-4.9                        4.9.2-10                       armhf  GNU C preprocessor                                           Artistic GFDL-1.2 GPL GPL-2 GPL-3
+ii  crda                           3.13-1                         armhf  wireless Central Regulatory Domain Agent                     ISC copyleft-next-0.3.0
+ii  cron                           3.0pl1-127+deb8u1              armhf  process scheduling daemon                                    Artistic GPL-2+ ISC Paul-Vixie's-license
+ii  curl                           7.38.0-4+deb8u4                armhf  command line tool for transferring data with URL syntax      BSD-3-Clause BSD-4-Clause ISC curl
+ii  dash                           0.5.7-4                        armhf  POSIX-compliant shell                                        GPL
+ii  dbus                           1.8.20-0+deb8u1                armhf  simple interprocess messaging system (daemon and utilities)  AFL-2.1 BSD-3-clause BSD-3-clause-generic Expat GPL-2+ GPL-2+ or AFL-2.1 GPL-2+ or AFL-2.1, LGPL-2+ Tcl-BSDish g10-permissive
+ii  dc                             1.06.95-9                      armhf  GNU dc arbitrary precision reverse-polish calculator         GPL-2.0+ GPL-2.0+ with Texinfo exception X11 permissive public-domain
+ii  debconf                        1.5.56                         all    Debian configuration management system                       BSD-2-clause
+ii  debconf-i18n                   1.5.56                         all    full internationalization support for debconf                BSD-2-clause
+ii  debconf-utils                  1.5.56                         all    debconf utilities                                            BSD-2-clause
+ii  debianutils                    4.4                            armhf  Miscellaneous utilities specific to Debian                   GPL
+ii  device-tree-compiler           1.4.1-1+rpi1                   armhf  Device Tree Compiler for Flat Device Trees                   GPL
+ii  dhcpcd5                        6.7.1-1+rpi5                   armhf  DHCPv4, IPv6RA and DHCPv6 client with IPv4LL support         BSD-2
+ii  diffutils                      1:3.3-1                        armhf  File comparison utilities                                    GFDL GPL
+ii  dmidecode                      2.12-3                         armhf  SMBIOS/DMI table decoder                                     GPL-2+
+ii  dmsetup                        2:1.02.90-2.2+deb8u1           armhf  Linux Kernel Device Mapper userspace library                 GPL-2 LGPL-2.1
+ii  dosfstools                     3.0.27-1                       armhf  utilities for making and checking MS-DOS FAT filesystems     GPL-3+
+ii  dphys-swapfile                 20100506-1                     all    Autogenerate and use a swap file                             GPL-2 GPL-3
+ii  dpkg                           1.17.27                        armhf  Debian package management system                             BSD-2-clause GPL-2 GPL-2+ public-domain
+ii  dpkg-dev                       1.17.27                        all    Debian package development tools                             BSD-2-clause GPL-2 GPL-2+ public-domain
+ii  e2fslibs:armhf                 1.42.12-2                      armhf  ext2/ext3/ext4 file system libraries                         GPL-2 LGPL-2
+ii  e2fsprogs                      1.42.12-2                      armhf  ext2/ext3/ext4 file system utilities                         GPL-2 LGPL-2
+ii  ed                             1.10-2                         armhf  classic UNIX line editor                                     GFDL-1.2 GPL-3
+ii  fake-hwclock                   0.9                            all    Save/restore system clock on machines without working RTC ha GPL-2
+ii  fakeroot                       1.20.2-1                       armhf  tool for simulating superuser privileges                     Artistic GPL
+ii  fbset                          2.1-28                         armhf  framebuffer device maintenance program                       GPL-2
+ii  file                           1:5.22+15-2+deb8u2             armhf  Determines file type using "magic" numbers                   BSD-2-Clause-alike BSD-2-Clause-netbsd BSD-2-Clause-regents MIT-Old-Style-with-legal-disclaimer-2 public-domain
+ii  findutils                      4.4.2-9                        armhf  utilities for finding files--find, xargs                     GFDL-1.2 GPL
+ii  firmware-atheros               0.43+rpi5                      all    Binary firmware for Atheros wireless cards                   unknown
+ii  firmware-brcm80211             0.43+rpi5                      all    Binary firmware for Broadcom 802.11 wireless cards           public domain
+ii  firmware-libertas              0.43+rpi5                      all    Binary firmware for Marvell Libertas 8xxx wireless cards     Binary redistribution (Marvell 1) Binary redistribution (Marvell 2)
+ii  firmware-ralink                0.43+rpi5                      all    Binary firmware for Ralink wireless cards                    unknown
+ii  firmware-realtek               0.43+rpi5                      all    Binary firmware for Realtek wired and wireless network adapt Binary redistribution (Realtek permissive) Binary redistribution (Realtek restrictive)
+ii  g++                            4:4.9.2-2                      armhf  GNU C++ compiler                                             GPL
+ii  g++-4.9                        4.9.2-10                       armhf  GNU C++ compiler                                             Artistic GFDL-1.2 GPL GPL-2 GPL-3
+ii  gcc                            4:4.9.2-2                      armhf  GNU C compiler                                               GPL
+ii  gcc-4.6-base:armhf             4.6.4-5+rpi1                   armhf  GCC, the GNU Compiler Collection (base package)              Artistic GFDL-1.2 GPL GPL-2 GPL-3
+ii  gcc-4.7-base:armhf             4.7.3-11+rpi1                  armhf  GCC, the GNU Compiler Collection (base package)              Artistic GFDL-1.2 GPL GPL-2 GPL-3
+ii  gcc-4.8-base:armhf             4.8.4-1                        armhf  GCC, the GNU Compiler Collection (base package)              Artistic GFDL-1.2 GPL GPL-2 GPL-3
+ii  gcc-4.9                        4.9.2-10                       armhf  GNU C compiler                                               Artistic GFDL-1.2 GPL GPL-2 GPL-3
+ii  gcc-4.9-base:armhf             4.9.2-10                       armhf  GCC, the GNU Compiler Collection (base package)              Artistic GFDL-1.2 GPL GPL-2 GPL-3
+ii  gdb                            7.7.1+dfsg-5                   armhf  GNU Debugger                                                 BSD-3-clause GPL-2+ GPL-3+ GPL-3+ with GCC-Runtime-3.1 exception LGPL-2+ LGPL-2.1+
+ii  gdbserver                      7.7.1+dfsg-5                   armhf  GNU Debugger (remote server)                                 BSD-3-clause GPL-2+ GPL-3+ GPL-3+ with GCC-Runtime-3.1 exception LGPL-2+ LGPL-2.1+
+ii  geoip-database                 20150317-1                     all    IP lookup command line tools that use the GeoIP library (cou LGPL-2
+ii  git                            1:2.1.4-2.1+deb8u2             armhf  fast, scalable, distributed revision control system          Apache-2.0 BSD-2-clause Boost EDL-1.0 Expat GPL-1+ or Artistic-1 GPL-2 GPL-2+ ISC LGPL-2+ LGPL-2.1+ dlmalloc mingw-runtime
+ii  git-man                        1:2.1.4-2.1+deb8u2             all    fast, scalable, distributed revision control system (manual  Apache-2.0 BSD-2-clause Boost EDL-1.0 Expat GPL-1+ or Artistic-1 GPL-2 GPL-2+ ISC LGPL-2+ LGPL-2.1+ dlmalloc mingw-runtime
+ii  gnupg                          1.4.18-7+deb8u3                armhf  GNU privacy guard - a free PGP replacement                   GPL-3+ with OpenSSL exception RFC-Reference
+ii  gpgv                           1.4.18-7+deb8u3                armhf  GNU privacy guard - signature verification tool              GPL-3+ with OpenSSL exception RFC-Reference
+ii  grep                           2.20-4.1                       armhf  GNU grep, egrep and fgrep                                    GPL-3+
+ii  groff-base                     1.22.2-8                       armhf  GNU troff text-formatting system (base system components)    GFDL-1.3 GPL-3
+ii  gzip                           1.6-4                          armhf  GNU compression utilities                                    GPL
+ii  hardlink                       0.3.0                          armhf  Hardlinks multiple copies of the same file                   Expat
+ii  hostapd                        1:2.3-1+deb8u4                 armhf  IEEE 802.11 AP and IEEE 802.1X/WPA/WPA2/EAP Authenticator    BSD-3-clause BSD-3-clause or GPL-2 GPL-2 ISC public-domain
+ii  hostname                       3.15                           armhf  utility to set/show the host name or domain name             GPL-2
+ii  i2c-tools                      3.1.1+svn-2                    armhf  heterogeneous set of I2C tools for Linux                     GPL GPL-2
+ii  ifupdown                       0.7.53.1                       armhf  high level tools to configure network interfaces             GPL-2
+ii  info                           5.2.0.dfsg.1-6                 armhf  Standalone GNU Info documentation browser                    GPL-3
+ii  init                           1.22                           armhf  System-V-like init utilities - metapackage                   BSD GPL-3+
+ii  init-system-helpers            1.22                           all    helper tools for all init systems                            BSD GPL-3+
+ii  initramfs-tools                0.120+deb8u2                   all    generic modular initramfs generator                          GPL-2
+ii  initscripts                    2.88dsf-59                     armhf  scripts for initializing and shutting down the system        GPL-2
+ii  insserv                        1.14.0-5                       armhf  boot sequence organizer using LSB init.d script dependency i GPL-2
+ii  install-info                   5.2.0.dfsg.1-6                 armhf  Manage installed documentation in info format                GPL-3
+ii  iproute2                       3.16.0-2                       armhf  networking and traffic control tools                         GPL-2
+ii  iptables                       1.4.21-2                       armhf  administration tools for packet filtering and NAT            Artistic-2 GPL-2
+ii  iputils-ping                   3:20121221-5                   armhf  Tools to test the reachability of network hosts              GPL
+ii  isc-dhcp-client                4.3.1-6+deb8u2                 armhf  DHCP client for automatically obtaining an IP address        ISC
+ii  isc-dhcp-common                4.3.1-6+deb8u2                 armhf  common files used by all of the isc-dhcp packages            ISC
+ii  iso-codes                      3.57-1                         all    ISO language, territory, currency, script codes and their tr LGPL-2.1+
+ii  iw                             3.17-1                         armhf  tool for configuring Linux wireless devices                  ISC
+ii  kbd                            1.15.5-2                       armhf  Linux console font and keytable utilities                    GPL-2+ GPL-any
+ii  keyboard-configuration         1.123                          all    system-wide keyboard preferences                             GPL-2
+ii  klibc-utils                    2.0.4-2+rpi1                   armhf  small utilities built with klibc for early boot              GPL-2
+ii  kmod                           18-3                           armhf  tools for managing Linux kernel modules                      GPL-2 LGPL-2.1
+ii  koruza                         1.0-20170913-1                 armhf  KORUZA                                                       unknown
+ii  less                           458-3                          armhf  pager program similar to more                                GPL-3
+ii  libacl1:armhf                  2.2.52-2                       armhf  Access control list shared library                           GPL LGPL-2.1
+ii  libalgorithm-c3-perl           0.09-1                         all    Perl module for merging hierarchies using the C3 algorithm   Artistic Artistic or GPL-1+ GPL-1+
+ii  libalgorithm-diff-perl         1.19.02-3                      all    module to find differences between files                     Artistic Artistic or GPL-1+ GPL-1+
+ii  libalgorithm-diff-xs-perl      0.04-3+b1                      armhf  module to find differences between files (XS accelerated)    Artistic Artistic or GPL-1+ GPL-1+
+ii  libalgorithm-merge-perl        0.08-2                         all    Perl module for three-way merge of textual data              Artistic GPL-1
+ii  libapt-inst1.5:armhf           1.0.9.8.3                      armhf  deb package format runtime library                           GPL-2
+ii  libapt-pkg4.12:armhf           1.0.9.8.3                      armhf  package management runtime library                           GPL-2
+ii  libarchive-extract-perl        0.72-1                         all    generic archive extracting module                            Artistic Artistic or GPL-1+ GPL-1+
+ii  libasan1:armhf                 4.9.2-10                       armhf  AddressSanitizer -- a fast memory error detector             Artistic GFDL-1.2 GPL GPL-2 GPL-3
+ii  libasound2:armhf               1.0.28-1+rpi1                  armhf  shared library for ALSA applications                         LGPL-2.1
+ii  libasound2-data                1.0.28-1+rpi1                  all    Configuration files and profiles for ALSA drivers            LGPL-2.1
+ii  libatomic1:armhf               4.9.2-10                       armhf  support library providing __atomic built-in functions        Artistic GFDL-1.2 GPL GPL-2 GPL-3
+ii  libattr1:armhf                 1:2.4.47-2                     armhf  Extended attribute shared library                            GPL-2 LGPL-2.1
+ii  libaudit-common                1:2.4-1                        all    Dynamic library for security auditing - common files         GPL LGPL-2.1
+ii  libaudit1:armhf                1:2.4-1                        armhf  Dynamic library for security auditing                        GPL LGPL-2.1
+ii  libavahi-common-data:armhf     0.6.31-5                       armhf  Avahi common data files                                      GPL GPL-2 LGPL-2.1
+ii  libavahi-common3:armhf         0.6.31-5                       armhf  Avahi common library                                         GPL GPL-2 LGPL-2.1
+ii  libavahi-core7:armhf           0.6.31-5                       armhf  Avahi's embeddable mDNS/DNS-SD library                       GPL GPL-2 LGPL-2.1
+ii  libbind9-90                    1:9.9.5.dfsg-9+deb8u6          armhf  BIND9 Shared Library used by BIND                            unknown
+ii  libblas-common                 1.2.20110419-10                armhf  Dependency package for all BLAS implementations              public domain
+ii  libblas3                       1.2.20110419-10                armhf  Basic Linear Algebra Reference implementations, shared libra public domain
+ii  libblkid1:armhf                2.25.2-6                       armhf  block device id library                                      BSD-2-clause BSD-3-clause BSD-4-clause GPL-2 GPL-2+ GPL-3+ LGPL LGPL-2+ LGPL-2.1+ LGPL-3+ MIT public-domain
+ii  libboost-iostreams1.49.0       1.49.0-4+b2                    armhf  Boost.Iostreams Library                                      Boost Software License
+ii  libboost-iostreams1.50.0       1.50.0-1+b2                    armhf  Boost.Iostreams Library                                      Boost Software License
+ii  libboost-iostreams1.53.0       1.53.0-6+b2                    armhf  Boost.Iostreams Library                                      Boost Software License
+ii  libboost-iostreams1.54.0:armhf 1.54.0-5                       armhf  Boost.Iostreams Library                                      Boost Software License
+ii  libboost-iostreams1.55.0:armhf 1.55.0+dfsg-3                  armhf  Boost.Iostreams Library                                      Boost
+ii  libbsd0:armhf                  0.7.0-2                        armhf  utility functions from BSD systems - shared library          4-clause BSD licenses public domain
+ii  libbz2-1.0:armhf               1.0.6-7                        armhf  high-quality block-sorting file compressor library - runtime GPL-2
+ii  libc-bin                       2.19-18+deb8u6                 armhf  GNU C Library: Binaries                                      GPL-2 LGPL-2.1
+ii  libc-dev-bin                   2.19-18+deb8u6                 armhf  GNU C Library: Development binaries                          GPL-2 LGPL-2.1
+ii  libc6:armhf                    2.19-18+deb8u6                 armhf  GNU C Library: Shared libraries                              GPL-2 LGPL-2.1
+ii  libc6-dbg:armhf                2.19-18+deb8u6                 armhf  GNU C Library: detached debugging symbols                    GPL-2 LGPL-2.1
+ii  libc6-dev:armhf                2.19-18+deb8u6                 armhf  GNU C Library: Development Libraries and Header Files        GPL-2 LGPL-2.1
+ii  libcap-ng0:armhf               0.7.4-2                        armhf  An alternate POSIX capabilities library                      GPL-2 GPL-3 LGPL-2.1
+ii  libcap2:armhf                  1:2.24-8                       armhf  POSIX 1003.1e capabilities (library)                         BSD-3-clause BSD-3-clause or GPL-2 BSD-3-clause or GPL-2+ GPL-2 GPL-2+
+ii  libcap2-bin                    1:2.24-8                       armhf  POSIX 1003.1e capabilities (utilities)                       BSD-3-clause BSD-3-clause or GPL-2 BSD-3-clause or GPL-2+ GPL-2 GPL-2+
+ii  libcgi-fast-perl               1:2.04-1                       all    CGI subclass for work with FCGI                              Artistic Artistic or GPL-1+ GPL-1+
+ii  libcgi-pm-perl                 4.09-1                         all    module for Common Gateway Interface applications             Artistic Artistic or GPL-1+ Artistic-2.0 Artistic-2.0 or Artistic or GPL-1+ Artistic-2.0 or GPL-1+ GPL-1+
+ii  libclass-c3-perl               0.26-1                         all    pragma for using the C3 method resolution order              Artistic Artistic or GPL-1+ GPL-1+
+ii  libclass-c3-xs-perl            0.13-2+b1                      armhf  Perl module to accelerate Class::C3                          Artistic Artistic or GPL-1+ GPL-1+
+ii  libcloog-isl4:armhf            0.18.2-1                       armhf  Chunky Loop Generator (runtime library)                      GFDL GPL LGPL-2 LGPL-2.1
+ii  libcomerr2:armhf               1.42.12-2                      armhf  common error description library                             unknown
+ii  libcpan-meta-perl              2.142690-1                     all    Perl module to access CPAN distributions metadata            Artistic Artistic or GPL-1+ GPL-1+
+ii  libcryptsetup4:armhf           2:1.6.6-5                      armhf  disk encryption support - shared library                     GPL-2+
+ii  libcurl3:armhf                 7.38.0-4+deb8u4                armhf  easy-to-use client-side URL transfer library (OpenSSL flavou BSD-3-Clause BSD-4-Clause ISC curl
+ii  libcurl3-gnutls:armhf          7.38.0-4+deb8u5                armhf  easy-to-use client-side URL transfer library (GnuTLS flavour BSD-3-Clause BSD-4-Clause ISC curl
+ii  libcwidget3:armhf              0.5.17-2                       armhf  high-level terminal interface library for C++ (runtime files GPL
+ii  libdaemon0:armhf               0.14-6                         armhf  lightweight C library for daemons - runtime library          GPL-2 LGPL
+ii  libdata-optlist-perl           0.109-1                        all    module to parse and validate simple name/value option pairs  Artistic Artistic or GPL-1+ GPL-1+
+ii  libdata-section-perl           0.200006-1                     all    module to read chunks of data from a module's DATA section   Artistic Artistic or GPL-1+ GPL-1+
+ii  libdb5.3:armhf                 5.3.28-9                       armhf  Berkeley v5.3 Database Libraries [runtime]                   unknown
+ii  libdbus-1-3:armhf              1.8.20-0+deb8u1                armhf  simple interprocess messaging system (library)               AFL-2.1 BSD-3-clause BSD-3-clause-generic Expat GPL-2+ GPL-2+ or AFL-2.1 GPL-2+ or AFL-2.1, LGPL-2+ Tcl-BSDish g10-permissive
+ii  libdebconfclient0:armhf        0.192                          armhf  Debian Configuration Management System (C-implementation lib public domain
+ii  libdevmapper1.02.1:armhf       2:1.02.90-2.2+deb8u1           armhf  Linux Kernel Device Mapper userspace library                 GPL-2 LGPL-2.1
+ii  libdns-export100               1:9.9.5.dfsg-9+deb8u6          armhf  Exported DNS Shared Library                                  unknown
+ii  libdns100                      1:9.9.5.dfsg-9+deb8u6          armhf  DNS Shared Library used by BIND                              unknown
+ii  libdpkg-perl                   1.17.27                        all    Dpkg perl modules                                            BSD-2-clause GPL-2 GPL-2+ public-domain
+ii  libdrm2:armhf                  2.4.65-3~bpo8+1                armhf  Userspace interface to kernel DRM services -- runtime        unknown
+ii  libedit2:armhf                 3.1-20140620-2                 armhf  BSD editline and history libraries                           unknown
+ii  libelf1:armhf                  0.159-4.2                      armhf  library to read and write ELF files                          GPL-2
+ii  liberror-perl                  0.17-1.1                       all    Perl module for error/exception handling in an OO-ish way    Artistic GPL
+ii  libestr0                       0.1.9-1.1                      armhf  Helper functions for handling strings (lib)                  LGPL-2.1
+ii  libevent-2.0-5:armhf           2.0.21-stable-2                armhf  Asynchronous event notification library                      BSD license
+ii  libexpat1:armhf                2.1.0-6+deb8u3                 armhf  XML parsing C library - runtime library                      unknown
+ii  libexpat1-dev:armhf            2.1.0-6+deb8u3                 armhf  XML parsing C library - development kit                      unknown
+ii  libfakeroot:armhf              1.20.2-1                       armhf  tool for simulating superuser privileges - shared libraries  Artistic GPL
+ii  libfcgi-perl                   0.77-1+b1                      armhf  helper module for FastCGI                                    PD other
+ii  libffi6:armhf                  3.1-2                          armhf  Foreign Function Interface library runtime                   GPL
+ii  libfile-fcntllock-perl         0.22-1+b1                      armhf  Perl module for file locking with fcntl(2)                   Artistic Artistic or GPL-1+ GPL-1+
+ii  libfreetype6:armhf             2.6-2rpi1rpi1g                 armhf  FreeType 2 font engine, shared library files                 BSD-2-Clause BSD-3-Clause Catharon-OSL FTL GPL-2+ GPL-2+ or FTL GZip OpenGroup-BSD-like
+ii  libfreetype6-dev               2.6-2rpi1rpi1g                 armhf  FreeType 2 font engine, development files                    BSD-2-Clause BSD-3-Clause Catharon-OSL FTL GPL-2+ GPL-2+ or FTL GZip OpenGroup-BSD-like
+ii  libftdi1:armhf                 0.20-2                         armhf  Library to control and program the FTDI USB controller       LGPL-2.1
+ii  libgcc-4.9-dev:armhf           4.9.2-10                       armhf  GCC support library (development files)                      Artistic GFDL-1.2 GPL GPL-2 GPL-3
+ii  libgcc1:armhf                  1:4.9.2-10                     armhf  GCC support library                                          Artistic GFDL-1.2 GPL GPL-2 GPL-3
+ii  libgcrypt20:armhf              1.6.3-2+deb8u2                 armhf  LGPL Crypto library - runtime library                        GPL-2 LGPL
+ii  libgdbm3:armhf                 1.8.3-13.1                     armhf  GNU dbm database routines (runtime version)                  GPL-2
+ii  libgeoip1:armhf                1.6.2-4                        armhf  non-DNS IP-to-country resolver library                       LGPL-2
+ii  libgfortran3:armhf             4.9.2-10                       armhf  Runtime library for GNU Fortran applications                 Artistic GFDL-1.2 GPL GPL-2 GPL-3
+ii  libglib2.0-0:armhf             2.42.1-1                       armhf  GLib library of C routines                                   LGPL
+ii  libglib2.0-data                2.42.1-1                       all    Common files for GLib library                                LGPL
+ii  libgmp10:armhf                 2:6.0.0+dfsg-6+rpi1            armhf  Multiprecision arithmetic library                            GPL GPL-2 GPL-3 LGPL-3
+ii  libgnutls-deb0-28:armhf        3.3.8-6+deb8u3                 armhf  GNU TLS library - main runtime library                       GFDL-1.3 GPL GPL-3 LGPL LGPL-3
+ii  libgnutls-openssl27:armhf      3.3.8-6+deb8u3                 armhf  GNU TLS library - OpenSSL wrapper                            GFDL-1.3 GPL GPL-3 LGPL LGPL-3
+ii  libgomp1:armhf                 4.9.2-10                       armhf  GCC OpenMP (GOMP) support library                            Artistic GFDL-1.2 GPL GPL-2 GPL-3
+ii  libgpg-error0:armhf            1.17-3                         armhf  library for common error values and messages in GnuPG compon GPL-2.1+
+ii  libgpm2:armhf                  1.20.4-6.1                     armhf  General Purpose Mouse - shared library                       GPL-2
+ii  libgssapi-krb5-2:armhf         1.12.1+dfsg-19+deb8u2          armhf  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism      GPL-2
+ii  libhogweed2:armhf              2.7.1-5+deb8u1                 armhf  low level cryptographic library (public-key cryptos)         GAP GPL-2 GPL-2+ LGPL-2+ LGPL-2.1+ other public-domain
+ii  libicu52:armhf                 52.1-8+deb8u3                  armhf  International Components for Unicode                         unknown
+ii  libident                       0.22-3                         armhf  simple RFC1413 client library - runtime                      Public Domain
+ii  libidn11:armhf                 1.29-1+deb8u2                  armhf  GNU Libidn library, implementation of IETF IDN specification GAP GFDL-1.3+ GPL-3+ LGPL-2.1+ LGPL-3+ | GPL-2+
+ii  libirs-export91                1:9.9.5.dfsg-9+deb8u6          armhf  Exported IRS Shared Library                                  unknown
+ii  libisc-export95                1:9.9.5.dfsg-9+deb8u6          armhf  Exported ISC Shared Library                                  unknown
+ii  libisc95                       1:9.9.5.dfsg-9+deb8u6          armhf  ISC Shared Library used by BIND                              unknown
+ii  libisccc90                     1:9.9.5.dfsg-9+deb8u6          armhf  Command Channel Library used by BIND                         unknown
+ii  libisccfg-export90             1:9.9.5.dfsg-9+deb8u6          armhf  Exported ISC CFG Shared Library                              unknown
+ii  libisccfg90                    1:9.9.5.dfsg-9+deb8u6          armhf  Config File Handling Library used by BIND                    unknown
+ii  libisl10:armhf                 0.12.2-2                       armhf  manipulating sets and relations of integer points bounded by 2-clause BSD LGPL-2.1+ MIT
+ii  libiw30:armhf                  30~pre9-8                      armhf  Wireless tools - library                                     GPL-2 LGPL-2.1
+ii  libjim0.75:armhf               0.75-1                         armhf  small-footprint implementation of Tcl - shared library       BSD-2-clause TCL
+ii  libjpeg62-turbo:armhf          1:1.3.1-12                     armhf  libjpeg-turbo JPEG runtime library                           BSD-3 BSD-BY-LC-NE Expat
+ii  libjson-c2:armhf               0.11-4                         armhf  JSON manipulation library - shared library                   MIT
+ii  libk5crypto3:armhf             1.12.1+dfsg-19+deb8u2          armhf  MIT Kerberos runtime libraries - Crypto Library              GPL-2
+ii  libkeyutils1:armhf             1.5.9-5                        armhf  Linux Key Management Utilities (library)                     GPL-2+ LGPL-2+
+ii  libklibc                       2.0.4-2+rpi1                   armhf  minimal libc subset for use with initramfs                   GPL-2
+ii  libkmod2:armhf                 18-3                           armhf  libkmod shared library                                       GPL-2 LGPL-2.1
+ii  libkrb5-3:armhf                1.12.1+dfsg-19+deb8u2          armhf  MIT Kerberos runtime libraries                               GPL-2
+ii  libkrb5support0:armhf          1.12.1+dfsg-19+deb8u2          armhf  MIT Kerberos runtime libraries - Support library             GPL-2
+ii  liblapack3                     3.5.0-4                        armhf  Library of linear algebra routines 3 - shared version        BSD license
+ii  libldap-2.4-2:armhf            2.4.40+dfsg-1                  armhf  OpenLDAP libraries                                           unknown
+ii  liblocale-gettext-perl         1.05-8+b1                      armhf  module using libc functions for internationalization in Perl Artistic Artistic or GPL-1+ GPL-1+
+ii  liblog-message-perl            0.8-1                          all    powerful and flexible message logging mechanism              Artistic Artistic or GPL-1+ GPL-1+
+ii  liblog-message-simple-perl     0.10-2                         all    simplified interface to Log::Message                         Artistic Artistic or GPL-1+ GPL-1+
+ii  liblogging-stdlog0:armhf       1.0.4-1                        armhf  easy to use and lightweight logging library                  BSD-2-Clause
+ii  liblognorm1:armhf              1.0.1-3                        armhf  Log normalizing library                                      LGPL-2.1
+ii  libluajit-5.1-common           2.0.3+dfsg-3                   all    Just in time compiler for Lua - common files                 MIT/X PD
+ii  liblwres90                     1:9.9.5.dfsg-9+deb8u6          armhf  Lightweight Resolver Library used by BIND                    unknown
+ii  liblzma5:armhf                 5.1.1alpha+20120614-2          armhf  XZ-format compression library                                Autoconf GPL-2 GPL-2+ LGPL-2.1+ PD PD-debian config-h noderivs none permissive-fsf permissive-nowarranty probably-PD
+ii  libmagic1:armhf                1:5.22+15-2+deb8u2             armhf  File type determination library using "magic" numbers        BSD-2-Clause-alike BSD-2-Clause-netbsd BSD-2-Clause-regents MIT-Old-Style-with-legal-disclaimer-2 public-domain
+ii  libmodule-build-perl           0.421000-2+deb8u1              all    framework for building and installing Perl modules           Artistic Artistic or GPL-1+ CC0 GPL-1+
+ii  libmodule-pluggable-perl       5.1-1                          all    module for giving  modules the ability to have plugins       Artistic Artistic or GPL-1+ GPL-1+
+ii  libmodule-signature-perl       0.73-1+deb8u2                  all    module to manipulate CPAN SIGNATURE files                    Artistic Artistic or GPL-1+ CC0 GPL-1+
+ii  libmount1:armhf                2.25.2-6                       armhf  device mounting library                                      BSD-2-clause BSD-3-clause BSD-4-clause GPL-2 GPL-2+ GPL-3+ LGPL LGPL-2+ LGPL-2.1+ LGPL-3+ MIT public-domain
+ii  libmpc3:armhf                  1.0.2-1                        armhf  multiple precision complex floating-point library            LGPL-2.1
+ii  libmpfr4:armhf                 3.1.2-2                        armhf  multiple precision floating-point computation                GFDL LGPL-3
+ii  libmro-compat-perl             0.12-1                         all    mro::* interface compatibility for Perls < 5.9.5             Artistic Artistic or GPL-1+ GPL-1+
+ii  libncurses5:armhf              5.9+20140913-1                 armhf  shared libraries for terminal handling                       unknown
+ii  libncursesw5:armhf             5.9+20140913-1                 armhf  shared libraries for terminal handling (wide character suppo unknown
+ii  libnettle4:armhf               2.7.1-5+deb8u1                 armhf  low level cryptographic library (symmetric and one-way crypt GAP GPL-2 GPL-2+ LGPL-2+ LGPL-2.1+ other public-domain
+ii  libnewt0.52:armhf              0.52.17-1                      armhf  Not Erik's Windowing Toolkit - text mode windowing with slan LGPL-2
+ii  libnfnetlink0:armhf            1.0.1-3                        armhf  Netfilter netlink library                                    GPL
+ii  libnfsidmap2:armhf             0.25-5                         armhf  NFS idmapping library                                        unknown
+ii  libnih-dbus1                   1.0.3-4.3                      armhf  NIH D-Bus Bindings Library                                   GPL-2
+ii  libnih1                        1.0.3-4.3                      armhf  NIH Utility Library                                          GPL-2
+ii  libnl-3-200:armhf              3.2.24-2                       armhf  library for dealing with netlink sockets                     GPL-2 LGPL-2.1
+ii  libnl-genl-3-200:armhf         3.2.24-2                       armhf  library for dealing with netlink sockets - generic netlink   GPL-2 LGPL-2.1
+ii  libnl-route-3-200:armhf        3.2.24-2                       armhf  library for dealing with netlink sockets - route interface   GPL-2 LGPL-2.1
+ii  libnss-mdns:armhf              0.10-6                         armhf  NSS module for Multicast DNS name resolution                 LGPL-2+
+ii  libopts25:armhf                1:5.18.4-3                     armhf  automated option processing library based on autogen         GPL-2+ GPL-2+ or LGPL-3+ or Modified_BSD GPL-3+ GPL-3+. LGPL-2.1+ LGPL-3+ LGPL-3+ or Modified_BSD Modified_BSD
+ii  libp11-kit0:armhf              0.20.7-1                       armhf  Library for loading and coordinating access to PKCS#11 modul BSD-3-Clause This file is distributed under the same license as the debian This file is distributed under the same license as the p11-kit
+ii  libpackage-constants-perl      0.04-1                         all    List constants defined in a package                          Artistic Artistic or GPL-1+ GPL-1+
+ii  libpam-modules:armhf           1.1.8-3.1+deb8u1               armhf  Pluggable Authentication Modules for PAM                     GPL
+ii  libpam-modules-bin             1.1.8-3.1+deb8u1               armhf  Pluggable Authentication Modules for PAM - helper binaries   GPL
+ii  libpam-runtime                 1.1.8-3.1+deb8u1               all    Runtime support for the PAM library                          GPL
+ii  libpam0g:armhf                 1.1.8-3.1+deb8u1               armhf  Pluggable Authentication Modules library                     GPL
+ii  libparams-util-perl            1.07-2+b1                      armhf  Perl extension for simple stand-alone param checking functio Artistic Artistic or GPL-1+ GPL-1+
+ii  libparted2:armhf               3.2-7                          armhf  disk partition manipulator - shared library                  GPL-3
+ii  libpcap0.8:armhf               1.6.2-2                        armhf  system interface for user-level packet capture               BSD license
+ii  libpcre3:armhf                 2:8.35-3.3+deb8u4              armhf  Perl 5 Compatible Regular Expression Library - runtime files "BSD" LICENCE "BSD" License
+ii  libpcsclite1:armhf             1.8.13-1                       armhf  Middleware to access a smart card using PC/SC (library)      BSD-3-clause Expat GPL-3+ ISC
+ii  libpipeline1:armhf             1.4.0-1                        armhf  pipeline manipulation library                                GPL-2+ GPL-3+
+ii  libplymouth4:armhf             0.9.2-3+rpi1                   armhf  graphical boot animation and logger - shared libraries       GPL-2+ other
+ii  libpng12-0:armhf               1.2.50-2+deb8u2                armhf  PNG library - runtime                                        GPL-2
+ii  libpng12-dev:armhf             1.2.50-2+deb8u2                armhf  PNG library - development                                    GPL-2
+ii  libpod-latex-perl              0.61-1                         all    module to convert Pod data to formatted LaTeX                Artistic Artistic or GPL-1+ GPL-1+
+ii  libpod-readme-perl             0.11-1                         all    Perl module to convert POD to README file                    Artistic GPL-1
+ii  libpopt0:armhf                 1.16-10                        armhf  lib for parsing cmdline parameters                           GPL-2+ X-Consortium
+ii  libprocps3:armhf               2:3.3.9-9                      armhf  library for accessing process information from /proc         GPL-2 LGPL-2
+ii  libpsl0:armhf                  0.5.1-1                        armhf  Library for Public Suffix List (shared libraries)            CC0 MIT MPL-2.0
+ii  libpython-dev:armhf            2.7.9-1                        armhf  header files and a static library for Python (default)       GPL-compatible GPL-compatible licenses
+ii  libpython-stdlib:armhf         2.7.9-1                        armhf  interactive high-level object-oriented language (default pyt GPL-compatible GPL-compatible licenses
+ii  libpython2.7:armhf             2.7.9-2+deb8u1                 armhf  Shared Python runtime library (version 2.7)                  Apache-2.0 GPL-2
+ii  libpython2.7-dev:armhf         2.7.9-2+deb8u1                 armhf  Header files and a static library for Python (v2.7)          Apache-2.0 GPL-2
+ii  libpython2.7-minimal:armhf     2.7.9-2+deb8u1                 armhf  Minimal subset of the Python language (version 2.7)          Apache-2.0 GPL-2
+ii  libpython2.7-stdlib:armhf      2.7.9-2+deb8u1                 armhf  Interactive high-level object-oriented language (standard li Apache-2.0 GPL-2
+ii  libraspberrypi-bin             1.20160921-1                   armhf  Miscellaneous Raspberry Pi utilities                         Broadcom GPL-2 MIT or Apache-2 (FIXME)
+ii  libraspberrypi-dev             1.20160921-1                   armhf  EGL/GLES/OpenVG/etc. libraries for the Raspberry Pi's VideoC Broadcom GPL-2 MIT or Apache-2 (FIXME)
+ii  libraspberrypi-doc             1.20160921-1                   armhf  EGL/GLES/OpenVG/etc. libraries for the Raspberry Pi's VideoC Broadcom GPL-2 MIT or Apache-2 (FIXME)
+ii  libraspberrypi0                1.20160921-1                   armhf  EGL/GLES/OpenVG/etc. libraries for the Raspberry Pi's VideoC Broadcom GPL-2 MIT or Apache-2 (FIXME)
+ii  libreadline6:armhf             6.3-8                          armhf  GNU readline and history libraries, run-time libraries       GPL-3
+ii  libregexp-common-perl          2013031301-1                   all    module with common regular expressions                       Artistic Artistic or GPL-1+ or Artistic-2.0 or BSD or MIT Artistic-2.0 BSD GPL-1+ MIT
+ii  librtmp1:armhf                 2.4+20150115.gita107cef-1      armhf  toolkit for RTMP streams (shared library)                    GPL-2 LGPL-2.1
+ii  libsamplerate0:armhf           0.1.8-8                        armhf  Audio sample rate conversion library                         GPL
+ii  libsasl2-2:armhf               2.1.26.dfsg1-13+deb8u1         armhf  Cyrus SASL - authentication abstraction library              BSD-4-clause GPL-2+ or BSD-2-clause GPL-3+
+ii  libsasl2-modules:armhf         2.1.26.dfsg1-13+deb8u1         armhf  Cyrus SASL - pluggable authentication modules                BSD-4-clause GPL-2+ or BSD-2-clause GPL-3+
+ii  libsasl2-modules-db:armhf      2.1.26.dfsg1-13+deb8u1         armhf  Cyrus SASL - pluggable authentication modules (DB)           BSD-4-clause GPL-2+ or BSD-2-clause GPL-3+
+ii  libselinux1:armhf              2.3-2                          armhf  SELinux runtime shared libraries                             GPL-2 LGPL-2.1
+ii  libsemanage-common             2.3-1                          all    Common files for SELinux policy management libraries         GPL LGPL
+ii  libsemanage1:armhf             2.3-1                          armhf  SELinux policy management library                            GPL LGPL
+ii  libsepol1:armhf                2.3-2                          armhf  SELinux library for manipulating binary security policies    GPL LGPL
+ii  libsigc++-1.2-5c2              1.2.7-2+b1                     armhf  type-safe Signal Framework for C++ - runtime                 LGPL
+ii  libsigc++-2.0-0c2a:armhf       2.4.0-1                        armhf  type-safe Signal Framework for C++ - runtime                 LGPL-2.1
+ii  libslang2:armhf                2.3.0-2                        armhf  S-Lang programming library - runtime version                 GPL-2+
+ii  libsmartcols1:armhf            2.25.2-6                       armhf  smart column output alignment library                        BSD-2-clause BSD-3-clause BSD-4-clause GPL-2 GPL-2+ GPL-3+ LGPL LGPL-2+ LGPL-2.1+ LGPL-3+ MIT public-domain
+ii  libsoftware-license-perl       0.103010-3                     all    module providing templated software licenses                 Artistic Artistic or GPL-1+ GPL-1+
+ii  libsqlite3-0:armhf             3.8.7.1-1+deb8u2               armhf  SQLite 3 shared library                                      GPL-2+ public-domain
+ii  libss2:armhf                   1.42.12-2                      armhf  command-line interface parsing library                       unknown
+ii  libssh2-1:armhf                1.4.3-4.1+deb8u1               armhf  SSH2 client-side library                                     BSD
+ii  libssl1.0.0:armhf              1.0.1t-1+deb8u3                armhf  Secure Sockets Layer toolkit - shared libraries              BSD-style
+ii  libstdc++-4.9-dev:armhf        4.9.2-10                       armhf  GNU Standard C++ Library v3 (development files)              Artistic GFDL-1.2 GPL GPL-2 GPL-3
+ii  libstdc++6:armhf               4.9.2-10                       armhf  GNU Standard C++ Library v3                                  Artistic GFDL-1.2 GPL GPL-2 GPL-3
+ii  libsub-exporter-perl           0.986-1                        all    sophisticated exporter for custom-built routines             Artistic Artistic or GPL-1+ GPL-1+
+ii  libsub-install-perl            0.928-1                        all    module for installing subroutines into packages easily       Artistic Artistic or GPL-1+ GPL-1+
+ii  libsysfs2:armhf                2.1.0+repack-4                 armhf  interface library to sysfs                                   GPL LGPL
+ii  libsystemd0:armhf              215-17+deb8u5                  armhf  systemd utility library                                      Expat GPL-2 GPL-2+ LGPL-2.1+ public-domain
+ii  libtalloc2:armhf               2.1.2-0+deb8u1                 armhf  hierarchical pool based memory allocator                     BSD-3 ISC LGPL-3+
+ii  libtasn1-6:armhf               4.2-3+deb8u2                   armhf  Manage ASN.1 structures (runtime)                            GFDL-1.3 GPL-3 LGPL LGPL-2.1
+ii  libterm-ui-perl                0.42-1                         all    Term::ReadLine UI made easy                                  Artistic Artistic or GPL-1+ GPL-1+
+ii  libtext-charwidth-perl         0.04-7+b4                      armhf  get display widths of characters on the terminal             Artistic GPL-2
+ii  libtext-iconv-perl             1.7-5+b5                       armhf  converts between character sets in Perl                      Artistic GPL-2
+ii  libtext-soundex-perl           3.4-1+b2                       armhf  implementation of the soundex algorithm                      Artistic Artistic or GPL-1+ GPL-1+ other
+ii  libtext-template-perl          1.46-1                         all    perl module to process text templates                        Artistic Artistic or GPL-1+ GPL-1+
+ii  libtext-wrapi18n-perl          0.06-7                         all    internationalized substitute of Text::Wrap                   Artistic GPL
+ii  libtimedate-perl               2.3000-2                       all    collection of modules to manipulate date/time information    Artistic Artistic or GPL-1+ GPL-1+
+ii  libtinfo5:armhf                5.9+20140913-1                 armhf  shared low-level terminfo library for terminal handling      unknown
+ii  libtirpc1:armhf                0.2.5-1                        armhf  transport-independent RPC library                            GPL-2
+ii  libubsan0:armhf                4.9.2-10                       armhf  UBSan -- undefined behaviour sanitizer (runtime)             Artistic GFDL-1.2 GPL GPL-2 GPL-3
+ii  libudev0:armhf                 175-7.2                        armhf  libudev shared library                                       GPL-2 LGPL-2.1
+ii  libudev1:armhf                 215-17+deb8u5                  armhf  libudev shared library                                       Expat GPL-2 GPL-2+ LGPL-2.1+ public-domain
+ii  libusb-0.1-4:armhf             2:0.1.12-25                    armhf  userspace USB programming library                            LGPL
+ii  libusb-1.0-0:armhf             2:1.0.19-1                     armhf  userspace USB programming library                            GPL-2 LGPL-2.1
+ii  libustr-1.0-1:armhf            1.0.4-3                        armhf  Micro string library: shared library                         BSD-2-clause GPL-2+ LGPL-2+ LGPL-2+ or BSD-2-clause or MIT MIT
+ii  libuuid1:armhf                 2.25.2-6                       armhf  Universally Unique ID library                                BSD-2-clause BSD-3-clause BSD-4-clause GPL-2 GPL-2+ GPL-3+ LGPL LGPL-2+ LGPL-2.1+ LGPL-3+ MIT public-domain
+ii  libv4l-0:armhf                 1.6.0-2                        armhf  Collection of video4linux support libraries                  GPL-2 LGPL
+ii  libv4l2rds0:armhf              1.6.0-2                        armhf  Video4Linux Radio Data System (RDS) decoding library         GPL-2 LGPL
+ii  libv4lconvert0:armhf           1.6.0-2                        armhf  Video4linux frame format conversion library                  GPL-2 LGPL
+ii  libwbclient0:armhf             2:4.2.10+dfsg-0+deb8u3         armhf  Samba winbind client library                                 BSD-3 GPL-3 GPL-3+ LGPL-3+
+ii  libwrap0:armhf                 7.6.q-25                       armhf  Wietse Venema's TCP wrappers library                         unknown
+ii  libx11-6:armhf                 2:1.6.2-3                      armhf  X11 client-side library                                      MIT license
+ii  libx11-data                    2:1.6.2-3                      all    X11 client-side library                                      MIT license
+ii  libxapian22                    1.2.19-1+deb8u1                armhf  Search engine library                                        GPL-2
+ii  libxau6:armhf                  1:1.0.8-1                      armhf  X11 authorisation library                                    unknown
+ii  libxcb1:armhf                  1.10-3                         armhf  X C Binding                                                  unknown
+ii  libxdmcp6:armhf                1:1.1.1-1                      armhf  X11 Display Manager Control Protocol library                 unknown
+ii  libxext6:armhf                 2:1.3.3-1                      armhf  X11 miscellaneous extension library                          unknown
+ii  libxml2:armhf                  2.9.1+dfsg1-5+deb8u3           armhf  GNOME XML library                                            unknown
+ii  libxmuu1:armhf                 2:1.1.2-1                      armhf  X11 miscellaneous micro-utility library                      unknown
+ii  libxtables10                   1.4.21-2                       armhf  netfilter xtables library                                    Artistic-2 GPL-2
+ii  linux-libc-dev:armhf           3.16.7-ckt11-1+deb8u4+rpi1     armhf  Linux support headers for userspace development              GPL-2 Unicode-data Xen-interface
+ii  locales                        2.19-18+deb8u6                 all    GNU C Library: National Language (locale) data [support]     GPL-2 LGPL-2.1
+ii  login                          1:4.2-3+deb8u1                 armhf  system login tools                                           GPL-2
+ii  logrotate                      3.8.7-1                        armhf  Log rotation utility                                         GPL-2
+ii  lsb-base                       4.1+Debian13+rpi1+nmu1         all    Linux Standard Base 4.1 init script functionality            BSD-3-clause GPL-2
+ii  lsb-release                    4.1+Debian13+rpi1+nmu1         all    Linux Standard Base version reporting utility                BSD-3-clause GPL-2
+ii  lua5.1                         5.1.5-7.1                      armhf  Simple, extensible, embeddable programming language          unknown
+ii  luajit                         2.0.3+dfsg-3                   armhf  Just in time compiler for Lua programming language version 5 MIT/X PD
+ii  make                           4.0-8.1                        armhf  utility for directing compilation                            GPL-2
+ii  makedev                        2.3.1-93                       all    creates device files in /dev                                 GPL
+ii  man-db                         2.7.0.2-5                      armhf  on-line manual pager                                         GPL-2+ GPL-3+
+ii  manpages                       3.74-1                         all    Manual pages about using a GNU/Linux system                  GPL
+ii  manpages-dev                   3.74-1                         all    Manual pages about using GNU/Linux for development           GPL
+ii  mawk                           1.3.3-17                       armhf  a pattern scanning and text processing language              GPL-2
+ii  mime-support                   3.58                           all    MIME files 'mime.types' & 'mailcap', and support programs    Bellcore ad-hoc
+ii  module-init-tools              18-3                           all    transitional dummy package (module-init-tools to kmod)       GPL-2 LGPL-2.1
+ii  mount                          2.25.2-6                       armhf  Tools for mounting and manipulating filesystems              BSD-2-clause BSD-3-clause BSD-4-clause GPL-2 GPL-2+ GPL-3+ LGPL LGPL-2+ LGPL-2.1+ LGPL-3+ MIT public-domain
+ii  mountall                       2.54                           armhf  filesystem mounting tool                                     GPL-2 LGPL-2+
+ii  multiarch-support              2.19-18+deb8u6                 armhf  Transitional package to ensure multiarch compatibility       GPL-2 LGPL-2.1
+ii  nano                           2.2.6-3                        armhf  small, friendly text editor inspired by Pico                 GFDL-1.2 GPL-3
+ii  ncdu                           1.10-1                         armhf  ncurses disk usage viewer                                    GPL
+ii  ncurses-base                   5.9+20140913-1                 all    basic terminal type definitions                              unknown
+ii  ncurses-bin                    5.9+20140913-1                 armhf  terminal-related programs and man pages                      unknown
+ii  ncurses-term                   5.9+20140913-1                 all    additional terminal type definitions                         unknown
+ii  net-tools                      1.60-26                        armhf  NET-3 networking toolkit                                     GPL-2
+ii  netbase                        5.3                            all    Basic TCP/IP networking system                               GPL-2
+ii  netcat-openbsd                 1.105-7                        armhf  TCP/IP swiss army knife                                      BSD-3-Clause
+ii  netcat-traditional             1.10-41                        armhf  TCP/IP swiss army knife                                      unknown
+ii  nfs-common                     1:1.2.8-9                      armhf  NFS support files common to client and server                GPL-2
+ii  ntp                            1:4.2.6.p5+dfsg-7+deb8u2       armhf  Network Time Protocol daemon and utility programs            unknown
+ii  openresolv                     3.5.2-1                        all    management framework for resolv.conf                         BSD-2-clause
+ii  openssh-client                 1:6.7p1-5+deb8u3               armhf  secure shell (SSH) client, for secure access to remote machi GPL-2
+ii  openssh-server                 1:6.7p1-5+deb8u3               armhf  secure shell (SSH) server, for secure access from remote mac GPL-2
+ii  openssh-sftp-server            1:6.7p1-5+deb8u3               armhf  secure shell (SSH) sftp server module, for SFTP access from  GPL-2
+ii  openssl                        1.0.1t-1+deb8u3                armhf  Secure Sockets Layer toolkit - cryptographic utility         BSD-style
+ii  parted                         3.2-7                          armhf  disk partition manipulator                                   GPL-3
+ii  passwd                         1:4.2-3+deb8u1                 armhf  change and administer password and group data                GPL-2
+ii  patch                          2.7.5-1                        armhf  Apply a diff file to an original                             GPL
+ii  perl                           5.20.2-3+deb8u6                armhf  Larry Wall's Practical Extraction and Report Language        Artistic Artistic-2 BSD-3-clause BSD-3-clause-GENERIC BSD-4-clause BSD-4-clause-POWERDOG BZIP DONT-CHANGE-THE-GPL Expat Expat or GPL-1+ or Artistic GPL-1+ GPL-1+ or Artistic GPL-1+ or Artistic, GPL-1+ or Artistic-2 GPL-2+ or Artistic GPL-3+-WITH-BISON-EXCEPTION HSIEH-BSD HSIEH-DERIVATIVE HSIEH-DERIVATIVE or HSIEH-BSD or LGPL-2.1 LGPL-2.1 REGCOMP REGCOMP, S2P SDBM-PUBLIC-DOMAIN TEXT-TABS Unicode ZLIB
+ii  perl-base                      5.20.2-3+deb8u6                armhf  minimal Perl system                                          Artistic Artistic-2 BSD-3-clause BSD-3-clause-GENERIC BSD-4-clause BSD-4-clause-POWERDOG BZIP DONT-CHANGE-THE-GPL Expat Expat or GPL-1+ or Artistic GPL-1+ GPL-1+ or Artistic GPL-1+ or Artistic, GPL-1+ or Artistic-2 GPL-2+ or Artistic GPL-3+-WITH-BISON-EXCEPTION HSIEH-BSD HSIEH-DERIVATIVE HSIEH-DERIVATIVE or HSIEH-BSD or LGPL-2.1 LGPL-2.1 REGCOMP REGCOMP, S2P SDBM-PUBLIC-DOMAIN TEXT-TABS Unicode ZLIB
+ii  perl-modules                   5.20.2-3+deb8u6                all    Core Perl modules                                            Artistic Artistic-2 BSD-3-clause BSD-3-clause-GENERIC BSD-4-clause BSD-4-clause-POWERDOG BZIP DONT-CHANGE-THE-GPL Expat Expat or GPL-1+ or Artistic GPL-1+ GPL-1+ or Artistic GPL-1+ or Artistic, GPL-1+ or Artistic-2 GPL-2+ or Artistic GPL-3+-WITH-BISON-EXCEPTION HSIEH-BSD HSIEH-DERIVATIVE HSIEH-DERIVATIVE or HSIEH-BSD or LGPL-2.1 LGPL-2.1 REGCOMP REGCOMP, S2P SDBM-PUBLIC-DOMAIN TEXT-TABS Unicode ZLIB
+ii  pi-bluetooth                   0.1.1                          armhf  Raspberry Pi 3 bluetooth                                     BSD-3-Clause
+ii  pkg-config                     0.28-1                         armhf  manage compile and link flags for libraries                  GPL
+ii  plymouth                       0.9.2-3+rpi1                   armhf  boot animation, logger and I/O multiplexer                   GPL-2+ other
+ii  procps                         2:3.3.9-9                      armhf  /proc file system utilities                                  GPL-2 LGPL-2
+ii  psmisc                         22.21-2                        armhf  utilities that use the proc file system                      GPL-2+
+ii  python                         2.7.9-1                        armhf  interactive high-level object-oriented language (default ver GPL-compatible GPL-compatible licenses
+ii  python-apt                     0.9.3.12                       armhf  Python interface to libapt-pkg                               GPL-2
+ii  python-apt-common              0.9.3.12                       all    Python interface to libapt-pkg (locales)                     GPL-2
+ii  python-cffi                    0.8.6-1                        armhf  Foreign Function Interface for Python calling C code         Expat
+ii  python-chardet                 2.3.0-1                        all    universal character encoding detector for Python2            LGPL-2.1+
+ii  python-cryptography            0.6.1-1                        armhf  Python library exposing cryptographic recipes and primitives Apache Expat
+ii  python-dev                     2.7.9-1                        armhf  header files and a static library for Python (default)       GPL-compatible GPL-compatible licenses
+ii  python-minimal                 2.7.9-1                        armhf  minimal subset of the Python language (default version)      GPL-compatible GPL-compatible licenses
+ii  python-ndg-httpsclient         0.3.2-1                        all    enhanced HTTPS support for httplib and urllib2 using PyOpenS unknown
+ii  python-numpy                   1:1.8.2-2                      armhf  Numerical Python adds a fast array facility to the Python la public domain
+ii  python-openssl                 0.13.1-2                       armhf  Python 2 wrapper around the OpenSSL library                  Apache-2.0
+ii  python-picamera                1.12                           armhf  Pure Python interface to the Raspberry Pi's camera module.   BSD-3-Clause GPL-2+ public-domain
+ii  python-pkg-resources           5.5.1-1                        all    Package Discovery and Resource Access using pkg_resources    GPL-compatible GPL-compatible licenses
+ii  python-ply                     3.4-5                          all    Lex and Yacc implementation for Python2                      BSD-3-clause
+ii  python-pyasn1                  0.1.7-1                        all    ASN.1 library for Python (Python 2 module)                   BSD-2-clause GPL-2+
+ii  python-pycparser               2.10+dfsg-3                    all    C parser in Python                                           bsd-3-bendersky
+ii  python-requests                2.4.3-6                        all    elegant and simple HTTP library for Python2, built for human Apache Expat LGPL-2.1+ PSF-2
+ii  python-rpi.gpio                0.6.2~jessie-1                 armhf  Python GPIO module for Raspberry Pi                          MIT
+ii  python-six                     1.8.0-1                        all    Python 2 and 3 compatibility library (Python 2 interface)    Expat
+ii  python-support                 1.0.15                         all    automated rebuilding support for Python modules              LGPL-2.1
+ii  python-urllib3                 1.9.1-3                        all    HTTP library with thread-safe connection pooling for Python  Expat PSF-2
+ii  python2.7                      2.7.9-2+deb8u1                 armhf  Interactive high-level object-oriented language (version 2.7 Apache-2.0 GPL-2
+ii  python2.7-dev                  2.7.9-2+deb8u1                 armhf  Header files and a static library for Python (v2.7)          Apache-2.0 GPL-2
+ii  python2.7-minimal              2.7.9-2+deb8u1                 armhf  Minimal subset of the Python language (version 2.7)          Apache-2.0 GPL-2
+ii  raspberrypi-bootloader         1.20160921-1                   armhf  Raspberry Pi bootloader                                      Broadcom GPL-2 MIT or Apache-2 (FIXME)
+ii  raspberrypi-kernel             1.20160921-1                   armhf  Raspberry Pi bootloader                                      Broadcom GPL-2 MIT or Apache-2 (FIXME)
+ii  raspberrypi-sys-mods           20160916                       all    System tweaks for the Raspberry Pi                           BSD-3-Clause
+ii  raspbian-archive-keyring       20120528.2                     all    GnuPG archive keys of the raspbian archive                   GPL-2
+ii  raspi-config                   20160810                       all    Raspberry Pi configuration tool                              unknown
+ii  raspi-copies-and-fills         0.5-1                          armhf  ARM-accelerated versions of selected functions from string.h BSD-3-Clause
+ii  readline-common                6.3-8                          all    GNU readline and history libraries, common files             GPL-3
+ii  rename                         0.20-3                         all    Perl extension for renaming multiple files                   Artistic Artistic or GPL-1+ GPL-1+
+ii  rpcbind                        0.2.1-6+deb8u1                 armhf  converts RPC program numbers into universal addresses        GPL-3
+ii  rsync                          3.1.1-3                        armhf  fast, versatile, remote (and local) file-copying tool        GPL-3
+ii  rsyslog                        8.4.2-1+deb8u2                 armhf  reliable system and kernel logging daemon                    Apache-2.0 BSD-3-clause GPL-3.0+ LGPL-3.0+
+ii  samba-common                   2:4.2.10+dfsg-0+deb8u3         all    common files used by both the Samba server and client        BSD-3 GPL-3 GPL-3+ LGPL-3+
+ii  scons                          2.3.1-2                        all    replacement for make                                         unknown
+ii  sed                            4.2.2-4                        armhf  The GNU sed stream editor                                    GPL
+ii  sensible-utils                 0.0.9                          all    Utilities for sensible alternative selection                 GPL-2
+ii  sgml-base                      1.26+nmu4                      all    SGML infrastructure and SGML catalog file support            GPL
+ii  shared-mime-info               1.3-1                          armhf  FreeDesktop.org shared MIME database and spec                GPL
+ii  ssh                            1:6.7p1-5+deb8u3               all    secure shell client and server (metapackage)                 GPL-2
+ii  startpar                       0.59-3                         armhf  run processes in parallel and multiplex their output         GPL-2+
+ii  strace                         4.9-2                          armhf  System call tracer                                           unknown
+ii  sudo                           1.8.10p3-1+deb8u3              armhf  Provide limited super user privileges to specific users      unknown
+ii  swig                           2.0.12-1                       armhf  Generate scripting interfaces to C/C++ code                  GPL GPL-3
+ii  swig2.0                        2.0.12-1                       armhf  Generate scripting interfaces to C/C++ code                  GPL GPL-3
+ii  systemd                        215-17+deb8u5                  armhf  system and service manager                                   Expat GPL-2 GPL-2+ LGPL-2.1+ public-domain
+ii  systemd-sysv                   215-17+deb8u5                  armhf  system and service manager - SysV links                      Expat GPL-2 GPL-2+ LGPL-2.1+ public-domain
+ii  sysv-rc                        2.88dsf-59                     all    System-V-like runlevel change mechanism                      GPL-2
+ii  sysvinit-utils                 2.88dsf-59                     armhf  System-V-like utilities                                      GPL-2
+ii  tar                            1.27.1-2                       armhf  GNU version of the tar archiving utility                     GPL-2 GPL-3
+ii  tasksel                        3.31+deb8u1                    all    tool for selecting tasks for installation on Debian systems  GPL-2
+ii  tasksel-data                   3.31+deb8u1                    all    official tasks used for installation of Debian systems       GPL-2
+ii  tcpd                           7.6.q-25                       armhf  Wietse Venema's TCP wrapper utilities                        unknown
+ii  tcpdump                        4.9.0-1~deb8u1                 armhf  command-line network traffic analyzer                        4-clause BSD license BSD license
+ii  traceroute                     1:2.0.20-2                     armhf  Traces the route taken by packets over an IPv4/IPv6 network  GPL-2+ LGPL-2.1+
+ii  triggerhappy                   0.3.4-2                        armhf  global hotkey daemon for Linux                               GPL-3
+ii  tzdata                         2016f-0+deb8u1                 all    time zone and daylight-saving time data                      public domain
+ii  ucf                            3.0030                         all    Update Configuration File(s): preserve user changes to confi GPL-2
+ii  udev                           215-17+deb8u5                  armhf  /dev/ and hotplug management daemon                          Expat GPL-2 GPL-2+ LGPL-2.1+ public-domain
+ii  udhcpd                         1:1.22.0-9+deb8u1              armhf  Provides the busybox DHCP server implementation              GPL-2
+ii  unzip                          6.0-16+deb8u2                  armhf  De-archiver for .zip files                                   unknown
+ii  usb-modeswitch                 2.2.0+repack0-2                armhf  mode switching tool for controlling "flip flop" USB devices  GPL-2
+ii  usb-modeswitch-data            20150115-1                     all    mode switching data for usb-modeswitch                       GPL-2
+ii  usbutils                       1:007-2                        armhf  Linux USB utilities                                          GPL-2
+ii  util-linux                     2.25.2-6                       armhf  Miscellaneous system utilities                               BSD-2-clause BSD-3-clause BSD-4-clause GPL-2 GPL-2+ GPL-3+ LGPL LGPL-2+ LGPL-2.1+ LGPL-3+ MIT public-domain
+ii  v4l-utils                      1.6.0-2                        armhf  Collection of command line video4linux utilities             GPL-2 LGPL
+ii  vim                            2:7.4.488-7+deb8u1             armhf  Vi IMproved - enhanced vi editor                             GPL-2
+ii  vim-common                     2:7.4.488-7+deb8u1             armhf  Vi IMproved - Common files                                   GPL-2
+ii  vim-runtime                    2:7.4.488-7+deb8u1             all    Vi IMproved - Runtime files                                  GPL-2
+ii  vim-tiny                       2:7.4.488-7+deb8u1             armhf  Vi IMproved - enhanced vi editor - compact version           GPL-2
+ii  wget                           1.16-1+deb8u1                  armhf  retrieves files from the web                                 GFDL-1.2 GPL-3
+ii  whiptail                       0.52.17-1                      armhf  Displays user-friendly dialog boxes from shell scripts       LGPL-2
+ii  wireless-regdb                 2014.11.18-1                   all    wireless regulatory database                                 ISC
+ii  wireless-tools                 30~pre9-8                      armhf  Tools for manipulating Linux Wireless Extensions             GPL-2 LGPL-2.1
+ii  wiringpi                       2.32                           armhf  The wiringPi libraries, headers and gpio command             unknown
+ii  wpasupplicant                  2.3-1+deb8u4                   armhf  client support for WPA and WPA2 (IEEE 802.11i)               BSD-3-clause BSD-3-clause or GPL-2 GPL-2 ISC public-domain
+ii  xauth                          1:1.0.9-1                      armhf  X authentication utility                                     unknown
+ii  xdg-user-dirs                  0.15-2                         armhf  tool to manage well known user directories                   GPL
+ii  xkb-data                       2.12-1                         all    X Keyboard Extension (XKB) configuration data                unknown
+ii  xml-core                       0.13+nmu2                      all    XML infrastructure and XML catalog file support              GPL
+ii  xz-utils                       5.1.1alpha+20120614-2          armhf  XZ-format compression utilities                              Autoconf GPL-2 GPL-2+ LGPL-2.1+ PD PD-debian config-h noderivs none permissive-fsf permissive-nowarranty probably-PD
+ii  zlib1g:armhf                   1:1.2.8.dfsg-2                 armhf  compression library - runtime                                unknown
+ii  zlib1g-dev:armhf               1:1.2.8.dfsg-2                 armhf  compression library - development                            unknown
