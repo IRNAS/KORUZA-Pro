@@ -1,5 +1,7 @@
 # KORUZA-Pro
 
+## KORUZA v2 Pro UI
+This is an old version of the KORUZA Pro repository. A new version, KORUZA v2 Pro, has been developed and is available at https://github.com/IRNAS/koruza-v2-pro.
 
 ## KORUZA Pro repositories and licences:
 The complete KORUZA Pro device is split in a number of repositories implementing specific functions and is made available under the listed licenses.
